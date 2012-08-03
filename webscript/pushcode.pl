@@ -49,11 +49,13 @@ sub main
     {
         my $job = $paramHash->{"job"};
         print("job name: $job\n");
-        my $cmd = sprintf("git remote add '%s' git\@github.com:powerguan/powercode.git", $job);
+        #my $cmd = sprintf("git remote add '%s' git\@github.com:powerguan/powercode.git", $job);
+        my $cmd = sprintf("git remote add -f -t master -m master %s git\@github.com:powerguan/powercode.git", $job);
         print("cmd: $cmd\n");
         system($cmd);
 
-        $cmd = sprintf("git push -u '%s' master", $job);
+        #$cmd = sprintf("git push -u %s master", $job);
+        $cmd = sprintf("git push git\@github.com:powerguan/powercode.git");
         print("cmd: $cmd\n");
         system($cmd);
     }
