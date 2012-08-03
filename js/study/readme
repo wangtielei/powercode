@@ -1,0 +1,6 @@
+1. how to run nodejs code?
+>node hello.js
+
+2. how to access this web service?
+>curl 'http://127.0.0.1:8124/'
+>in browser input 'http://127.0.0.1:8124/'

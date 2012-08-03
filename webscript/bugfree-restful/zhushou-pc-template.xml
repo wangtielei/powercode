@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="gb2312"?>
+<ret>
+	<retinfo success="" empty="" total="1" msg="" code="0"/>
+	<softs>
+		<soft>
+			<id>102194553</id>
+			<surl>http://soft.360.cn/static/baoku/info_5_0/softinfo_102194553.html</surl>
+			<name>
+				<![CDATA[360手机助手苹果版]]>
+			</name>
+			<bname>
+				<![CDATA[360手机助手苹果版]]>
+			</bname>
+			<logo>http://w.qhimg.com/images/v2/soft/360baoku/logo2/360iOSMgr.png</logo>
+			<eid>100031404</eid>
+			<vname>
+				<![CDATA[360手机助手苹果版]]>
+			</vname>
+			<free>2</free>
+			<ubrief>
+				<![CDATA[版本更新简介:tips-content-is-here]]>
+			</ubrief>
+			<ubrief2>
+				<![CDATA[暂无版本更新简介]]>
+			</ubrief2>
+			<plugin>2</plugin>
+			<stable>2</stable>
+			<is_stable>2</is_stable>
+			<ptime>date-is-here</ptime>
+			<language>1</language>
+			<important>2</important>
+			<urate>62</urate>
+			<vdisp>version-is-here</vdisp>
+			<size>filesize-is-here</size>
+			<os>Win7/WinXP</os>
+			<dname>
+				<![CDATA[360手机助手苹果版short-version-hereBeta.exe]]>
+			</dname>
+			<durls>
+				<![CDATA[pdown://p2=md5-is-here|k=1|p3=20|p4=1200|p5=6|p6=2|h3=120|h7=3|b5=360手机助手苹果版|b6=360手机助手苹果版|b7=1|b9=0|http://dl.360safe.com/ioszhushou/360iosmgr.exe;http://down.360safe.com/360iosmgr_beta.exe]]>
+			</durls>
+			<shell>
+				<![CDATA[http://dl.soft.360.cn/inst_shell/201204/100031404_S.datp]]>
+			</shell>
+			<hint2>
+				<![CDATA[<font face=verdana color=#008000><b>360手机助手苹果版下载提示：</b></font> short-version-here Beta]]>
+			</hint2>
+		</soft>
+	</softs>
+</ret>

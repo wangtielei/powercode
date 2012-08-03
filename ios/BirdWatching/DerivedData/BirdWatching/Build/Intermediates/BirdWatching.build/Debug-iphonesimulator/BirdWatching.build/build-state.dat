@@ -1,0 +1,1609 @@
+TBirdWatching
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Info.plist BirdWatching/BirdWatching-Info.plist
+cProcessPCH /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch.pth BirdWatching/BirdWatching-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSighting.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSightingDataController.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSightingDataController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/AddSightingViewController.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/AddSightingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/BirdWatching normal i386
+cGenerateDSYMFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app.dSYM /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/BirdWatching
+cCopyStringsFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj/InfoPlist.strings BirdWatching/zh-Hans.lproj/InfoPlist.strings
+cCopyStringsFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj/InfoPlist.strings BirdWatching/en.lproj/InfoPlist.strings
+cCopyStringsFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj/InfoPlist.strings BirdWatching/zh-Hant.lproj/InfoPlist.strings
+cCompileStoryboard /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard.storyboard
+cCompileStoryboard /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hans.lproj/MainStoryboard.storyboard
+cCompileStoryboard /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hant.lproj/MainStoryboard.storyboard
+cCpResource resource/images/applogo.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo.png
+cCpResource resource/images/applogo@2x.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo@2x.png
+cCpResource resource/images/splash.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash.png
+cCpResource resource/images/splash@2x.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash@2x.png
+cCpResource Default.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default.png
+cCpResource Default@2x.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default@2x.png
+cCopyPlistFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/usersetting.plist BirdWatching/../usersetting.plist
+cCopyStringsFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj/Localizable.strings BirdWatching/../en.lproj/Localizable.strings
+cCopyStringsFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj/Localizable.strings BirdWatching/../zh-Hans.lproj/Localizable.strings
+cCopyStringsFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj/Localizable.strings BirdWatching/../zh-Hant.lproj/Localizable.strings
+cTouch /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FBC5DA70000000000244490
+t1337744807
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FBC5DA80000000000353830
+t1337744808
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FBC5DAB0000000000905E40
+t1337744811
+s9461312
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/../libs/Log4Cocoa.framework/Log4Cocoa
+c000000004FC72E7E00000000000B38F0
+t1338453630
+s735472
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/../en.lproj/Localizable.strings
+c0000000050038E8E00000000000000A5
+t1342410382
+s165
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/../usersetting.plist
+c0000000050036B9D00000000000000B5
+t1342401437
+s181
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/../zh-Hans.lproj/Localizable.strings
+c0000000050036B9D00000000000000A9
+t1342401437
+s169
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/../zh-Hant.lproj/Localizable.strings
+c0000000050036B9D00000000000000AC
+t1342401437
+s172
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/AddSightingViewController.h
+c0000000050036B9C000000000000036E
+t1342401436
+s878
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/AddSightingViewController.m
+c0000000050036B9C0000000000000C58
+t1342401436
+s3160
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSighting.h
+c0000000050036B9C00000000000001E4
+t1342401436
+s484
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSighting.m
+c0000000050036B9C0000000000000256
+t1342401436
+s598
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSightingDataController.h
+c0000000050036B9C000000000000020F
+t1342401436
+s527
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSightingDataController.m
+c0000000050036B9C0000000000000698
+t1342401436
+s1688
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdWatching-Prefix.pch
+c0000000050036B9C0000000000000147
+t1342401436
+s327
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsAppDelegate.h
+c0000000050036B9C000000000000012A
+t1342401436
+s298
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m
+c0000000050036B9C0000000000000CE6
+t1342401436
+s3302
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsDetailViewController.h
+c0000000050036B9C00000000000001FF
+t1342401436
+s511
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m
+c0000000050036B9C00000000000006F4
+t1342401436
+s1780
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsMasterViewController.h
+c0000000050036B9C000000000000016C
+t1342401436
+s364
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m
+c0000000050036B9C0000000000001571
+t1342401436
+s5489
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/L4AppenderProtocols.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/L4Level.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/L4Logger.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/L4LoggerProtocols.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderAttachable.h
+c000000004F500D5000000000000002F1
+t1330646352
+s753
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderAttachable.m
+c000000004FC74D8E0000000000000C11
+t1338461582
+s3089
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderProtocols.h
+c000000004F500D500000000000000CB4
+t1330646352
+s3252
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m
+c000000004F500D500000000000001FFF
+t1330646352
+s8191
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4BasicConfigurator.m
+c000000004F500D500000000000000245
+t1330646352
+s581
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4ConsoleAppender.m
+c000000004F500D500000000000000BAE
+t1330646352
+s2990
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4DailyRollingFileAppender.m
+c000000004F500D500000000000001FB1
+t1330646352
+s8113
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4DenyAllFilter.m
+c000000004F500D5000000000000000C0
+t1330646352
+s192
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4FileAppender.m
+c000000004F500D500000000000000DE8
+t1330646352
+s3560
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Filter.m
+c000000004F500D500000000000000172
+t1330646352
+s370
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4JSONLayout.m
+c000000004F500D5000000000000003ED
+t1330646352
+s1005
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Layout.m
+c000000004F500D500000000000000245
+t1330646352
+s581
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Level.h
+c000000004F500D50000000000000129A
+t1330646352
+s4762
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Level.m
+c000000004F500D50000000000000125D
+t1330646352
+s4701
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LevelMatchFilter.m
+c000000004F500D5000000000000006C4
+t1330646352
+s1732
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LevelRangeFilter.m
+c000000004F500D50000000000000079E
+t1330646352
+s1950
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LogEvent.m
+c000000004F500D500000000000001088
+t1330646352
+s4232
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LogLog.m
+c000000004F500D500000000000000A52
+t1330646352
+s2642
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Logger.h
+c000000004F500D500000000000002773
+t1330646352
+s10099
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Logger.m
+c000000004F500D500000000000001D17
+t1330646352
+s7447
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LoggerNameMatchFilter.m
+c000000004F500D500000000000000633
+t1330646352
+s1587
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LoggerProtocols.h
+c000000004F500D5000000000000009BB
+t1330646352
+s2491
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LoggerStore.m
+c000000004F500D500000000000002635
+t1330646352
+s9781
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Logging.m
+c000000004F500D50000000000000032E
+t1330646352
+s814
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4PatternLayout.m
+c000000004F500D500000000000005296
+t1330646352
+s21142
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Properties.m
+c000000004F500D500000000000001AFD
+t1330646352
+s6909
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4PropertyConfigurator.m
+c000000004F500D500000000000001F88
+t1330646352
+s8072
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4RollingFileAppender.m
+c000000004F500D50000000000000194B
+t1330646352
+s6475
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4RootLogger.m
+c000000004F500D500000000000000204
+t1330646352
+s516
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4SimpleLayout.m
+c000000004F500D5000000000000001BD
+t1330646352
+s445
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4StringMatchFilter.m
+c000000004F500D50000000000000061C
+t1330646352
+s1564
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4WriterAppender.m
+c000000004F500D500000000000000F90
+t1330646352
+s3984
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4XMLLayout.m
+c000000004F500D5000000000000004DA
+t1330646352
+s1242
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/NSObject+Log4Cocoa.m
+c000000004F500D50000000000000012D
+t1330646352
+s301
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/.gitignore
+c000000004F500D500000000000000060
+t1330646352
+s96
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/LICENSE
+c000000004F500D500000000000000720
+t1330646352
+s1824
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4AppenderAttachable.m
+c000000004F500D500000000000000BB9
+t1330646352
+s3001
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4AppenderSkeleton.m
+c000000004F500D500000000000001FFF
+t1330646352
+s8191
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4BasicConfigurator.m
+c000000004F500D500000000000000245
+t1330646352
+s581
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4ConsoleAppender.m
+c000000004F500D500000000000000BAE
+t1330646352
+s2990
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4DailyRollingFileAppender.m
+c000000004F500D500000000000001FB1
+t1330646352
+s8113
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4DenyAllFilter.m
+c000000004F500D5000000000000000C0
+t1330646352
+s192
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4FileAppender.m
+c000000004F500D500000000000000DE8
+t1330646352
+s3560
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Filter.m
+c000000004F500D500000000000000172
+t1330646352
+s370
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4JSONLayout.m
+c000000004F500D5000000000000003ED
+t1330646352
+s1005
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Layout.m
+c000000004F500D500000000000000245
+t1330646352
+s581
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Level.m
+c000000004F500D50000000000000125D
+t1330646352
+s4701
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LevelMatchFilter.m
+c000000004F500D5000000000000006C4
+t1330646352
+s1732
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LevelRangeFilter.m
+c000000004F500D50000000000000079E
+t1330646352
+s1950
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LogEvent.m
+c000000004F500D500000000000001088
+t1330646352
+s4232
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LogLog.m
+c000000004F500D500000000000000A52
+t1330646352
+s2642
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Logger.m
+c000000004F500D500000000000001D17
+t1330646352
+s7447
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LoggerNameMatchFilter.m
+c000000004F500D500000000000000633
+t1330646352
+s1587
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LoggerStore.m
+c000000004F500D500000000000002635
+t1330646352
+s9781
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Logging.m
+c000000004F500D50000000000000032E
+t1330646352
+s814
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4PatternLayout.m
+c000000004F500D500000000000005296
+t1330646352
+s21142
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Properties.m
+c000000004F500D500000000000001AFD
+t1330646352
+s6909
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4PropertyConfigurator.m
+c000000004F500D500000000000001F88
+t1330646352
+s8072
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4RollingFileAppender.m
+c000000004F500D50000000000000194B
+t1330646352
+s6475
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4RootLogger.m
+c000000004F500D500000000000000204
+t1330646352
+s516
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4SimpleLayout.m
+c000000004F500D5000000000000001BD
+t1330646352
+s445
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4StringMatchFilter.m
+c000000004F500D50000000000000061C
+t1330646352
+s1564
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4WriterAppender.m
+c000000004F500D500000000000000F90
+t1330646352
+s3984
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4XMLLayout.m
+c000000004F500D5000000000000004DA
+t1330646352
+s1242
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/NSObject+Log4Cocoa.m
+c000000004F500D50000000000000012D
+t1330646352
+s301
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/README.mdown
+c000000004F500D500000000000001AFA
+t1330646352
+s6906
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/en.lproj/InfoPlist.strings
+c0000000050036B9C000000000000002D
+t1342401436
+s45
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard.storyboard
+c00000000500395230000000000007E5A
+t1342412067
+s32346
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/main.m
+c0000000050036B9C0000000000000165
+t1342401436
+s357
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hans.lproj/InfoPlist.strings
+c0000000050036B9C000000000000002D
+t1342401436
+s45
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hans.lproj/MainStoryboard.storyboard
+c0000000050036B9C0000000000007199
+t1342401436
+s29081
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hant.lproj/InfoPlist.strings
+c0000000050036B9C000000000000002D
+t1342401436
+s45
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hant.lproj/MainStoryboard.storyboard
+c0000000050036B9C0000000000007199
+t1342401436
+s29081
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/Default.png
+c0000000050036B9C0000000000020F98
+t1342401436
+s135064
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/Default@2x.png
+c0000000050036B9C0000000000020F98
+t1342401436
+s135064
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/AddSightingViewController.o
+t1342410383
+s57292
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.o
+t1342410383
+s10072
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSightingDataController.o
+t1342410383
+s12744
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdWatching.LinkFileList
+c0000000050036B9C000000000000056A
+t1342401436
+s1386
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.o
+t1342410383
+s67912
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.o
+t1342410383
+s55596
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.o
+t1342410383
+s63264
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderAttachable.o
+t1338461587
+s19460
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderSkeleton.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4BasicConfigurator.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4ConsoleAppender.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4DailyRollingFileAppender.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4DenyAllFilter.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4FileAppender.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Filter.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4JSONLayout.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Layout.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Level.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LevelMatchFilter.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LevelRangeFilter.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LogEvent.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LogLog.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Logger.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LoggerNameMatchFilter.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LoggerStore.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Logging.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4PatternLayout.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Properties.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4PropertyConfigurator.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4RollingFileAppender.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4RootLogger.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4SimpleLayout.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4StringMatchFilter.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4WriterAppender.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4XMLLayout.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/NSObject+Log4Cocoa.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.o
+t1342410383
+s3228
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-dxfauswjoutsqrdbttdwueapxjwd/BirdWatching-Prefix.pch.pth
+t1338459870
+s4029348
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch.pth
+t1342410383
+s4029348
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app
+t1342410472
+s510
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app.dSYM
+t1342410384
+s102
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/.gitignore
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/BirdWatching
+t1342410384
+s51992
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default.png
+t1342410384
+s135064
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default@2x.png
+t1342410384
+s135064
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Info.plist
+t1342410472
+s1037
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/LICENSE
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/PkgInfo
+t1342410472
+s8
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/README.mdown
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo.png
+t1342410384
+s5583
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo@2x.png
+t1342410384
+s17296
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj/InfoPlist.strings
+t1342401436
+s42
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj/Localizable.strings
+t1342410384
+s59
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj/MainStoryboard.storyboardc
+t1342410384
+s340
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash.png
+t1342410384
+s135064
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash@2x.png
+t1342410384
+s135064
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/usersetting.plist
+t1342410384
+s42
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj/Localizable.strings
+t1342410384
+s61
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj/Localizable.strings
+t1342410384
+s63
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/resource/images/applogo.png
+c0000000050036B9D00000000000015CF
+t1342401437
+s5583
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/resource/images/applogo@2x.png
+c0000000050036B9D0000000000004390
+t1342401437
+s17296
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/resource/images/splash.png
+c0000000050036B9D0000000000020F98
+t1342401437
+s135064
+
+N/Users/guanjianjun/code/powercode/ios/BirdWatching/resource/images/splash@2x.png
+c0000000050036B9D0000000000020F98
+t1342401437
+s135064
+
+NBirdWatching/BirdWatching-Info.plist
+c0000000050038EE700000000000006C6
+t1342410471
+s1734
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/AddSightingViewController.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSighting.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSightingDataController.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderAttachable.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4BasicConfigurator.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4ConsoleAppender.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4DailyRollingFileAppender.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4DenyAllFilter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4FileAppender.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Filter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4JSONLayout.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Layout.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Level.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LevelMatchFilter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LevelRangeFilter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LogEvent.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LogLog.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Logger.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LoggerNameMatchFilter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LoggerStore.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Logging.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4PatternLayout.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Properties.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4PropertyConfigurator.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4RollingFileAppender.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4RootLogger.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4SimpleLayout.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4StringMatchFilter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4WriterAppender.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4XMLLayout.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/NSObject+Log4Cocoa.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4AppenderAttachable.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4AppenderSkeleton.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4BasicConfigurator.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4ConsoleAppender.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4DailyRollingFileAppender.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4DenyAllFilter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4FileAppender.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Filter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4JSONLayout.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Layout.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Level.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LevelMatchFilter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LevelRangeFilter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LogEvent.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LogLog.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Logger.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LoggerNameMatchFilter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LoggerStore.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Logging.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4PatternLayout.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Properties.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4PropertyConfigurator.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4RollingFileAppender.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4RootLogger.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4SimpleLayout.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4StringMatchFilter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4WriterAppender.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4XMLLayout.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/NSObject+Log4Cocoa.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies47e44fa3ccb3b541^16a766a3ccb3b541^---0#1#0#--18"Check dependencies36"3C3E8BBF-0E2A-4643-9613-C2519A2726E2-
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/AddSightingViewController.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/AddSightingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364103183.881275
+e364103183.931058
+r1
+xCompileC
+xDerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/AddSightingViewController.o
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/AddSightingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/AddSightingViewController.mc3d5e10fc6b3b541^6877f40fc6b3b541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/AddSightingViewController.m0000000000000000^4094"CompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/AddSightingViewController.o BirdWatching/AddSightingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/include -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/AddSightingViewController.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/AddSightingViewController.dia -c /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/AddSightingViewController.m -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/AddSightingViewController.o36"B83B69CF-4D4F-4FEC-A256-A49E4CF944EA-
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSighting.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364103183.842481
+e364103183.882238
+r1
+xCompileC
+xDerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.o
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSighting.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSighting.mf3c8d70fc6b3b541^50e0e10fc6b3b541^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSighting.m0000000000000000^4016"CompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.o BirdWatching/BirdSighting.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/include -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.dia -c /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSighting.m -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.o36"84D9112F-7D7B-4324-A49E-7EA374F73B26-
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSightingDataController.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSightingDataController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364103183.798368
+e364103183.841250
+r1
+xCompileC
+xDerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSightingDataController.o
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSightingDataController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSightingDataController.m247fcc0fc6b3b541^e563d70fc6b3b541^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSightingDataController.m0000000000000000^4100"CompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSightingDataController.o BirdWatching/BirdSightingDataController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/include -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSightingDataController.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSightingDataController.dia -c /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdSightingDataController.m -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSightingDataController.o36"C1107739-E5D7-41C8-914C-AE0C83D51B71-
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364103183.799217
+e364103183.880006
+r1
+xCompileC
+xDerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.o
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m:80:15: warning: unused variable 'test' [-Wunused-variable]
+o    NSString *test = NSLocalizedString(@"appname", @"bird");
+o              ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsAppDelegate.mb114cd0fc6b3b541^7a53e10fc6b3b541^-240"/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m:80:15: warning: unused variable 'test' [-Wunused-variable]    NSString *test = NSLocalizedString(@"appname", @"bird");              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@22"Unused variable 'test'-364103183#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@98"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m0000000000000000^79#14#79#14#3247#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@98"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m0000000000000000^4040"CompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.o BirdWatching/BirdsAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/include -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.dia -c /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.o36"899F04D4-F1AF-4624-8E27-98A1561643C6-
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364103183.842476
+e364103183.915093
+r1
+xCompileC
+xDerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.o
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m86cad70fc6b3b541^a7e7ed0fc6b3b541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m0000000000000000^4094"CompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.o BirdWatching/BirdsDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/include -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.dia -c /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.o36"9A90EE28-D12E-4957-817A-F3F89352AF0A-
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364103183.799351
+e364103183.903565
+r1
+xCompileC
+xDerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.o
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m2e58ce0fc6b3b541^b1e1ed0fc6b3b541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m0000000000000000^4094"CompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.o BirdWatching/BirdsMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/include -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.dia -c /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.o36"00E91431-D92C-4AD1-BA6C-AAAE5CF27DA4-
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderAttachable.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderAttachable.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360154387.212884
+e360154387.909559
+r0
+xCompileC
+xDerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderAttachable.o
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderAttachable.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderAttachable.m24b736138577b541^c1e2e8138577b541^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderAttachable.m0000000000000000^4223"CompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderAttachable.o BirdWatching/Log4Cocoa/L4AppenderAttachable.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -iquote/Users/guanjianjun/code/powercode/ios/libs/Log4Cocoa.framework/Headers -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/include -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator -F/Users/guanjianjun/code/powercode/ios/BirdWatching/../libs -include /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-dxfauswjoutsqrdbttdwueapxjwd/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderAttachable.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderAttachable.dia -c /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderAttachable.m -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderAttachable.o36"4B8A1D5F-BA7D-41DE-8D59-243F15E2B41B-
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderAttachable.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4AppenderAttachable.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderSkeleton.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360154387.214369
+e360154387.581816
+r0
+xCompileC
+xDerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderSkeleton.o
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:49:18: error: 'release' is unavailable: not available in automatic reference counting mode
+o                [self release];
+o                 ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:36:1: note: declaration has been explicitly marked unavailable here
+o- (oneway void)release NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
+o^
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:49:18: error: ARC forbids explicit message send of 'release'
+o                [self release];
+o                 ^    ~~~~~~~
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:74:18: error: 'release' is unavailable: not available in automatic reference counting mode
+o                [self release];
+o                 ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:36:1: note: declaration has been explicitly marked unavailable here
+o- (oneway void)release NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
+o^
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:74:18: error: ARC forbids explicit message send of 'release'
+o                [self release];
+o                 ^    ~~~~~~~
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:85:3: error: 'release' is unavailable: not available in automatic reference counting mode
+o        [name release];
+o         ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:36:1: note: declaration has been explicitly marked unavailable here
+o- (oneway void)release NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
+o^
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:85:3: error: ARC forbids explicit message send of 'release'
+o        [name release];
+o         ^    ~~~~~~~
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:86:3: error: 'release' is unavailable: not available in automatic reference counting mode
+o        [layout release];
+o         ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:36:1: note: declaration has been explicitly marked unavailable here
+o- (oneway void)release NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
+o^
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:86:3: error: ARC forbids explicit message send of 'release'
+o        [layout release];
+o         ^      ~~~~~~~
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:87:3: error: ARC forbids explicit message send of 'release'
+o        [threshold release];
+o         ^         ~~~~~~~
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:88:3: error: 'release' is unavailable: not available in automatic reference counting mode
+o        [headFilter release];
+o         ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:36:1: note: declaration has been explicitly marked unavailable here
+o- (oneway void)release NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
+o^
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:88:3: error: ARC forbids explicit message send of 'release'
+o        [headFilter release];
+o         ^          ~~~~~~~
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:89:3: error: ARC forbids explicit message send of 'dealloc'
+o        [super dealloc];
+o         ^     ~~~~~~~
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:114:14: error: 'autorelease' is unavailable: not available in automatic reference counting mode
+o            [threshold autorelease];
+o             ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here
+o- (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
+o^
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:114:14: error: ARC forbids explicit message send of 'autorelease'
+o            [threshold autorelease];
+o             ^         ~~~~~~~~~~~
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:115:26: error: 'retain' is unavailable: not available in automatic reference counting mode
+o            threshold = [aLevel retain];
+o                         ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:35:1: note: declaration has been explicitly marked unavailable here
+o- (id)retain NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
+o^
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:115:26: error: ARC forbids explicit message send of 'retain'
+o            threshold = [aLevel retain];
+o                         ^      ~~~~~~
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:131:12: error: ARC forbids explicit message send of 'autorelease'
+o                if ( ![[[[filterClass alloc] init] autorelease] isKindOfClass:[L4Filter class]] ) {
+o                        ^                          ~~~~~~~~~~~
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:136:19: error: 'autorelease' is unavailable: not available in automatic reference counting mode
+o                        newFilter = [[(L4Filter *)[filterClass alloc] initWithProperties:filterProperties] autorelease];
+o                                     ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here
+o- (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
+o^
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:136:19: error: ARC forbids explicit message send of 'autorelease'
+o                        newFilter = [[(L4Filter *)[filterClass alloc] initWithProperties:filterProperties] autorelease];
+o                                     ^                                                                     ~~~~~~~~~~~
+ofatal error: too many errors emitted, stopping now [-ferror-limit=]
+o20 errors generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m601d37138577b541^83be94138577b541^-7202"/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:49:18: error: 'release' is unavailable: not available in automatic reference counting mode                [self release];                 ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:36:1: note: declaration has been explicitly marked unavailable here- (oneway void)release NS_AUTOMATED_REFCOUNT_UNAVAILABLE;^/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:49:18: error: ARC forbids explicit message send of 'release'                [self release];                 ^    ~~~~~~~/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:74:18: error: 'release' is unavailable: not available in automatic reference counting mode                [self release];                 ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:36:1: note: declaration has been explicitly marked unavailable here- (oneway void)release NS_AUTOMATED_REFCOUNT_UNAVAILABLE;^/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:74:18: error: ARC forbids explicit message send of 'release'                [self release];                 ^    ~~~~~~~/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:85:3: error: 'release' is unavailable: not available in automatic reference counting mode        [name release];         ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:36:1: note: declaration has been explicitly marked unavailable here- (oneway void)release NS_AUTOMATED_REFCOUNT_UNAVAILABLE;^/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:85:3: error: ARC forbids explicit message send of 'release'        [name release];         ^    ~~~~~~~/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:86:3: error: 'release' is unavailable: not available in automatic reference counting mode        [layout release];         ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:36:1: note: declaration has been explicitly marked unavailable here- (oneway void)release NS_AUTOMATED_REFCOUNT_UNAVAILABLE;^/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:86:3: error: ARC forbids explicit message send of 'release'        [layout release];         ^      ~~~~~~~/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:87:3: error: ARC forbids explicit message send of 'release'        [threshold release];         ^         ~~~~~~~/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:88:3: error: 'release' is unavailable: not available in automatic reference counting mode        [headFilter release];         ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:36:1: note: declaration has been explicitly marked unavailable here- (oneway void)release NS_AUTOMATED_REFCOUNT_UNAVAILABLE;^/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:88:3: error: ARC forbids explicit message send of 'release'        [headFilter release];         ^          ~~~~~~~/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:89:3: error: ARC forbids explicit message send of 'dealloc'        [super dealloc];         ^     ~~~~~~~/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:114:14: error: 'autorelease' is unavailable: not available in automatic reference counting mode            [threshold autorelease];             ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here- (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE;^/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:114:14: error: ARC forbids explicit message send of 'autorelease'            [threshold autorelease];             ^         ~~~~~~~~~~~/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:115:26: error: 'retain' is unavailable: not available in automatic reference counting mode            threshold = [aLevel retain];                         ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:35:1: note: declaration has been explicitly marked unavailable here- (id)retain NS_AUTOMATED_REFCOUNT_UNAVAILABLE;^/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:115:26: error: ARC forbids explicit message send of 'retain'            threshold = [aLevel retain];                         ^      ~~~~~~/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:131:12: error: ARC forbids explicit message send of 'autorelease'                if ( ![[[[filterClass alloc] init] autorelease] isKindOfClass:[L4Filter class]] ) {                        ^                          ~~~~~~~~~~~/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:136:19: error: 'autorelease' is unavailable: not available in automatic reference counting mode                        newFilter = [[(L4Filter *)[filterClass alloc] initWithProperties:filterProperties] autorelease];                                     ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here- (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE;^/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m:136:19: error: ARC forbids explicit message send of 'autorelease'                        newFilter = [[(L4Filter *)[filterClass alloc] initWithProperties:filterProperties] autorelease];                                     ^                                                                     ~~~~~~~~~~~fatal error: too many errors emitted, stopping now [-ferror-limit=]20 errors generated.20(36%IDEClangDiagnosticActivityLogMessage2@76"'release' is unavailable: not available in automatic reference counting mode-360154387#18446744073709551615#0#1(2@55"Declaration has been explicitly marked unavailable here-360154387#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@197"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^35#0#35#0#878#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^48#17#48#17#1841#0#14"Semantic Issue--2@46"ARC forbids explicit message send of 'release'-360154387#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^48#17#48#17#1841#0#16"ARC Restrictions1(3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^48#22#48#29#1846#0#-2@76"'release' is unavailable: not available in automatic reference counting mode-360154387#18446744073709551615#0#1(2@55"Declaration has been explicitly marked unavailable here-360154387#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@197"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^35#0#35#0#878#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^73#17#73#17#3173#0#14"Semantic Issue--2@46"ARC forbids explicit message send of 'release'-360154387#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^73#17#73#17#3173#0#16"ARC Restrictions1(3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^73#22#73#29#3178#0#-2@76"'release' is unavailable: not available in automatic reference counting mode-360154387#18446744073709551615#0#1(2@55"Declaration has been explicitly marked unavailable here-360154387#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@197"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^35#0#35#0#878#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^84#2#84#2#3292#0#14"Semantic Issue--2@46"ARC forbids explicit message send of 'release'-360154387#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^84#2#84#2#3292#0#16"ARC Restrictions1(3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^84#7#84#14#3297#0#-2@76"'release' is unavailable: not available in automatic reference counting mode-360154387#18446744073709551615#0#1(2@55"Declaration has been explicitly marked unavailable here-360154387#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@197"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^35#0#35#0#878#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^85#2#85#2#3309#0#14"Semantic Issue--2@46"ARC forbids explicit message send of 'release'-360154387#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^85#2#85#2#3309#0#16"ARC Restrictions1(3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^85#9#85#16#3316#0#-2@46"ARC forbids explicit message send of 'release'-360154387#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^86#2#86#2#3328#0#16"ARC Restrictions1(3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^86#12#86#19#3338#0#-2@76"'release' is unavailable: not available in automatic reference counting mode-360154387#18446744073709551615#0#1(2@55"Declaration has been explicitly marked unavailable here-360154387#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@197"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^35#0#35#0#878#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^87#2#87#2#3350#0#14"Semantic Issue--2@46"ARC forbids explicit message send of 'release'-360154387#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^87#2#87#2#3350#0#16"ARC Restrictions1(3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^87#13#87#20#3361#0#-2@46"ARC forbids explicit message send of 'dealloc'-360154387#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^88#2#88#2#3373#0#16"ARC Restrictions1(3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^88#8#88#15#3379#0#-2@80"'autorelease' is unavailable: not available in automatic reference counting mode-360154387#18446744073709551615#0#1(2@55"Declaration has been explicitly marked unavailable here-360154387#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@197"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^36#0#36#0#936#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^113#13#113#13#3819#0#14"Semantic Issue--2@50"ARC forbids explicit message send of 'autorelease'-360154387#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^113#13#113#13#3819#0#16"ARC Restrictions1(3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^113#23#113#34#3829#0#-2@75"'retain' is unavailable: not available in automatic reference counting mode-360154387#18446744073709551615#0#1(2@55"Declaration has been explicitly marked unavailable here-360154387#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@197"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^34#0#34#0#830#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^114#25#114#25#3868#0#14"Semantic Issue--2@45"ARC forbids explicit message send of 'retain'-360154387#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^114#25#114#25#3868#0#16"ARC Restrictions1(3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^114#32#114#38#3875#0#-2@50"ARC forbids explicit message send of 'autorelease'-360154387#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^130#11#130#11#4451#0#16"ARC Restrictions1(3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^130#38#130#49#4478#0#-2@80"'autorelease' is unavailable: not available in automatic reference counting mode-360154387#18446744073709551615#0#1(2@55"Declaration has been explicitly marked unavailable here-360154387#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@197"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^36#0#36#0#936#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^135#18#135#18#4712#0#14"Semantic Issue--2@50"ARC forbids explicit message send of 'autorelease'-360154387#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^135#18#135#18#4712#0#16"ARC Restrictions1(3@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^135#88#135#99#4782#0#-2@37"Too many errors emitted, stopping now-360154387#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic-29"Apple LLVM compiler 3.1 Error--0#0#0#-19%DVTDocumentLocation4@110"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m0000000000000000^4211"CompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderSkeleton.o BirdWatching/Log4Cocoa/L4AppenderSkeleton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -iquote/Users/guanjianjun/code/powercode/ios/libs/Log4Cocoa.framework/Headers -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/include -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator -F/Users/guanjianjun/code/powercode/ios/BirdWatching/../libs -include /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-dxfauswjoutsqrdbttdwueapxjwd/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderSkeleton.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderSkeleton.dia -c /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4AppenderSkeleton.m -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderSkeleton.o36"4D11576B-F9E0-41CD-AC76-3D5C01938274-
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4AppenderSkeleton.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4AppenderSkeleton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4BasicConfigurator.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4BasicConfigurator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4BasicConfigurator.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4BasicConfigurator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4ConsoleAppender.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4ConsoleAppender.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4ConsoleAppender.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4ConsoleAppender.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4DailyRollingFileAppender.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4DailyRollingFileAppender.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4DailyRollingFileAppender.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4DailyRollingFileAppender.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4DenyAllFilter.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4DenyAllFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4DenyAllFilter.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4DenyAllFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4FileAppender.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4FileAppender.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4FileAppender.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4FileAppender.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Filter.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Filter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Filter.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Filter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4JSONLayout.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4JSONLayout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4JSONLayout.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4JSONLayout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Layout.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Layout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Layout.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Layout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Level.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Level.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Level.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Level.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LevelMatchFilter.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LevelMatchFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LevelMatchFilter.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LevelMatchFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LevelRangeFilter.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LevelRangeFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LevelRangeFilter.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LevelRangeFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LogEvent.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LogEvent.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LogEvent.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LogEvent.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LogLog.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LogLog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LogLog.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LogLog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Logger.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Logger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Logger.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Logger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LoggerNameMatchFilter.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LoggerNameMatchFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LoggerNameMatchFilter.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LoggerNameMatchFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LoggerStore.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4LoggerStore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4LoggerStore.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4LoggerStore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Logging.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Logging.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Logging.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Logging.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4PatternLayout.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4PatternLayout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4PatternLayout.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4PatternLayout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Properties.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4Properties.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4Properties.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4Properties.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4PropertyConfigurator.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4PropertyConfigurator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4PropertyConfigurator.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4PropertyConfigurator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4RollingFileAppender.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4RollingFileAppender.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4RollingFileAppender.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4RollingFileAppender.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4RootLogger.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4RootLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4RootLogger.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4RootLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4SimpleLayout.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4SimpleLayout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4SimpleLayout.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4SimpleLayout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4StringMatchFilter.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4StringMatchFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4StringMatchFilter.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4StringMatchFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4WriterAppender.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4WriterAppender.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4WriterAppender.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4WriterAppender.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4XMLLayout.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/L4XMLLayout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/L4XMLLayout.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/L4XMLLayout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/NSObject+Log4Cocoa.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/NSObject+Log4Cocoa.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/NSObject+Log4Cocoa.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/Log4Cocoa/NSObject+Log4Cocoa.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.o /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364103183.798998
+e364103183.841740
+r1
+xCompileC
+xDerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.o
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/main.mada5cc0fc6b3b541^0b7ed70fc6b3b541^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/main.m0000000000000000^3968"CompileC DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.o BirdWatching/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/include -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.dia -c /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/main.m -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.o36"112D1AE6-937E-4F1C-A79A-1BDD063AD0DE-
+
+CCompileStoryboard /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard.storyboard
+s364104867.448597
+e364104867.743305
+r1
+xCompileStoryboard
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard.storyboard
+o/* com.apple.ibtool.document.warnings */
+o/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard.storyboard:3: warning: Scene is unreachable due to lack of entry points and does not have an identifier for runtime access via -instantiateViewControllerWithIdentifier:. [9]
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"CompileStoryboard BirdWatching/en.lproj/MainStoryboard.storyboard79e972a3ccb3b541^df52bea3ccb3b541^-303"/* com.apple.ibtool.document.warnings *//Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard.storyboard:3: warning: Scene is unreachable due to lack of entry points and does not have an identifier for runtime access via -instantiateViewControllerWithIdentifier:. [9]1(21%IDEActivityLogMessage2@146"Scene is unreachable due to lack of entry points and does not have an identifier for runtime access via -instantiateViewControllerWithIdentifier:.-364104867#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@114"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard.storyboard0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#0#-19%DVTDocumentLocation4@114"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard.storyboard0000000000000000^984"CompileStoryboard BirdWatching/en.lproj/MainStoryboard.storyboard    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj/MainStoryboard.storyboardc /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"9599AFA3-FE7A-4C18-B841-06F8EC7D6626-
+
+CCompileStoryboard /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hans.lproj/MainStoryboard.storyboard
+s364104867.449627
+e364104868.479102
+r1
+xCompileStoryboard
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hans.lproj/MainStoryboard.storyboard
+o2012-07-16 12:14:28.053 Interface Builder Cocoa Touch Tool[2024:13203] CFPreferences: user home directory at file://localhost/Users/guanjianjun/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CompileStoryboard BirdWatching/zh-Hans.lproj/MainStoryboard.storyboard5f2973a3ccb3b541^f4a67aa4ccb3b541^-246"2012-07-16 12:14:28.053 Interface Builder Cocoa Touch Tool[2024:13203] CFPreferences: user home directory at file://localhost/Users/guanjianjun/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hans.lproj/MainStoryboard.storyboard0000000000000000^999"CompileStoryboard BirdWatching/zh-Hans.lproj/MainStoryboard.storyboard    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj/MainStoryboard.storyboardc /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hans.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"12C24142-BE98-4B71-97B4-6A16DB2943E5-
+
+CCompileStoryboard /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hant.lproj/MainStoryboard.storyboard
+s364104867.486828
+e364104868.580532
+r1
+xCompileStoryboard
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hant.lproj/MainStoryboard.storyboard
+o2012-07-16 12:14:28.082 Interface Builder Cocoa Touch Tool[2025:13203] CFPreferences: user home directory at file://localhost/Users/guanjianjun/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CompileStoryboard BirdWatching/zh-Hant.lproj/MainStoryboard.storyboardffb17ca3ccb3b541^09a894a4ccb3b541^-246"2012-07-16 12:14:28.082 Interface Builder Cocoa Touch Tool[2025:13203] CFPreferences: user home directory at file://localhost/Users/guanjianjun/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hant.lproj/MainStoryboard.storyboard0000000000000000^999"CompileStoryboard BirdWatching/zh-Hant.lproj/MainStoryboard.storyboard    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj/MainStoryboard.storyboardc /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hant.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"9FBC690D-1F7C-4332-A4AB-E87742176934-
+
+CCopyPlistFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/usersetting.plist BirdWatching/../usersetting.plist
+s364103184.281059
+e364103184.283985
+r1
+xCopyPlistFile
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/usersetting.plist
+xBirdWatching/../usersetting.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy BirdWatching/../usersetting.plist86004810c6b3b541^bbb94810c6b3b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/../usersetting.plist0000000000000000^614"CopyPlistFile DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/usersetting.plist BirdWatching/../usersetting.plist    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app -- BirdWatching/../usersetting.plist36"AFEF71A1-CEAB-4739-876D-9F3D92372C0D-
+
+CCopyStringsFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj/InfoPlist.strings BirdWatching/en.lproj/InfoPlist.strings
+s360152670.881196
+e360152670.912563
+r1
+xCopyStringsFile
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj/InfoPlist.strings
+xBirdWatching/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy BirdWatching/en.lproj/InfoPlist.stringsc4b2e15e7e77b541^f1a0e95e7e77b541^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/en.lproj/InfoPlist.strings0000000000000000^687"CopyStringsFile DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj/InfoPlist.strings BirdWatching/en.lproj/InfoPlist.strings    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj -- BirdWatching/en.lproj/InfoPlist.strings36"2D6B8EA0-B28D-4D04-969A-6EB1122D599F-
+
+CCopyStringsFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj/Localizable.strings BirdWatching/../en.lproj/Localizable.strings
+s364103184.282520
+e364103184.284782
+r1
+xCopyStringsFile
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj/Localizable.strings
+xBirdWatching/../en.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy BirdWatching/../en.lproj/Localizable.strings9e5f4810c6b3b541^efe74810c6b3b541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/../en.lproj/Localizable.strings0000000000000000^699"CopyStringsFile DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj/Localizable.strings BirdWatching/../en.lproj/Localizable.strings    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/en.lproj -- BirdWatching/../en.lproj/Localizable.strings36"7676C31E-66DD-48FC-A6E5-6A29E4769EC6-
+
+CCopyStringsFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj/InfoPlist.strings BirdWatching/zh-Hans.lproj/InfoPlist.strings
+s364104867.448468
+e364104867.485601
+r1
+xCopyStringsFile
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj/InfoPlist.strings
+xBirdWatching/zh-Hans.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy BirdWatching/zh-Hans.lproj/InfoPlist.strings93df72a3ccb3b541^205d7ca3ccb3b541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hans.lproj/InfoPlist.strings0000000000000000^707"CopyStringsFile DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj/InfoPlist.strings BirdWatching/zh-Hans.lproj/InfoPlist.strings    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj -- BirdWatching/zh-Hans.lproj/InfoPlist.strings36"CAF06FDD-4811-43B4-902C-E025DF19B097-
+
+CCopyStringsFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj/Localizable.strings BirdWatching/../zh-Hans.lproj/Localizable.strings
+s364103184.284046
+e364103184.286719
+r1
+xCopyStringsFile
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj/Localizable.strings
+xBirdWatching/../zh-Hans.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy BirdWatching/../zh-Hans.lproj/Localizable.strings9cc44810c6b3b541^94684910c6b3b541^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/../zh-Hans.lproj/Localizable.strings0000000000000000^719"CopyStringsFile DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj/Localizable.strings BirdWatching/../zh-Hans.lproj/Localizable.strings    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hans.lproj -- BirdWatching/../zh-Hans.lproj/Localizable.strings36"20501290-B9D1-4BBE-A501-565A716C8088-
+
+CCopyStringsFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj/InfoPlist.strings BirdWatching/zh-Hant.lproj/InfoPlist.strings
+s364104867.448543
+e364104867.485849
+r1
+xCopyStringsFile
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj/InfoPlist.strings
+xBirdWatching/zh-Hant.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy BirdWatching/zh-Hant.lproj/InfoPlist.stringsd2e072a3ccb3b541^17637ca3ccb3b541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/zh-Hant.lproj/InfoPlist.strings0000000000000000^707"CopyStringsFile DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj/InfoPlist.strings BirdWatching/zh-Hant.lproj/InfoPlist.strings    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj -- BirdWatching/zh-Hant.lproj/InfoPlist.strings36"903A0304-3A44-4CFB-A374-C1E868A76190-
+
+CCopyStringsFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj/Localizable.strings BirdWatching/../zh-Hant.lproj/Localizable.strings
+s364103184.285072
+e364103184.287423
+r1
+xCopyStringsFile
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj/Localizable.strings
+xBirdWatching/../zh-Hant.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy BirdWatching/../zh-Hant.lproj/Localizable.stringsdd064910c6b3b541^e2944910c6b3b541^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/../zh-Hant.lproj/Localizable.strings0000000000000000^719"CopyStringsFile DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj/Localizable.strings BirdWatching/../zh-Hant.lproj/Localizable.strings    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/zh-Hant.lproj -- BirdWatching/../zh-Hant.lproj/Localizable.strings36"F34D703E-6BF1-46EC-9513-007F5192C3DB-
+
+CCpResource BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/.gitignore DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/.gitignore
+r0
+
+CCpResource BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/LICENSE DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/LICENSE
+r0
+
+CCpResource BirdWatching/Log4Cocoa/endSly-Log4Cocoa-cb733d7/README.mdown DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/README.mdown
+r0
+
+CCpResource Default.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default.png
+s364103184.279148
+e364103184.281422
+r1
+xCpResource
+xDefault.png
+xDerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default.pngdc844710c6b3b541^fe0b4810c6b3b541^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default.png000000000080d041^777"CpResource Default.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default.png    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/guanjianjun/code/powercode/ios/BirdWatching/Default.png /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app36"C4688C3A-7CC8-4A69-A403-8D32E0EED0F5-
+
+CCpResource Default@2x.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default@2x.png
+s364103184.279223
+e364103184.282911
+r1
+xCpResource
+xDefault@2x.png
+xDerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default@2x.pngec884710c6b3b541^1d714810c6b3b541^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default@2x.png000000000080d041^792"CpResource "Default@2x.png" "DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Default@2x.png"    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/guanjianjun/code/powercode/ios/BirdWatching/Default@2x.png" /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app36"2D094EB1-30C6-49CB-9CB3-58DD6A1F1E50-
+
+CCpResource resource/images/applogo.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo.png
+s364103184.272701
+e364103184.276405
+r1
+xCpResource
+xresource/images/applogo.png
+xDerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo.png55df4510c6b3b541^f0c24610c6b3b541^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo.png000000000080d041^809"CpResource resource/images/applogo.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo.png    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/guanjianjun/code/powercode/ios/BirdWatching/resource/images/applogo.png /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app36"0CD95AD5-DF82-4E29-9535-17B3C92FC1D8-
+
+CCpResource resource/images/applogo@2x.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo@2x.png
+s364103184.272729
+e364103184.278024
+r1
+xCpResource
+xresource/images/applogo@2x.png
+xDerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo@2x.pngfcdf4510c6b3b541^a12d4710c6b3b541^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo@2x.png000000000080d041^824"CpResource "resource/images/applogo@2x.png" "DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/applogo@2x.png"    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/guanjianjun/code/powercode/ios/BirdWatching/resource/images/applogo@2x.png" /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app36"F18BF146-8288-4BE3-A126-7C964FC4A6FD-
+
+CCpResource resource/images/splash.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash.png
+s364103184.273601
+e364103184.278228
+r1
+xCpResource
+xresource/images/splash.png
+xDerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash.png05184610c6b3b541^543b4710c6b3b541^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash.png000000000080d041^806"CpResource resource/images/splash.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash.png    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/guanjianjun/code/powercode/ios/BirdWatching/resource/images/splash.png /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app36"5C4F2E56-A381-4A74-9A05-236C383F8198-
+
+CCpResource resource/images/splash@2x.png DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash@2x.png
+s364103184.277650
+e364103184.279905
+r1
+xCpResource
+xresource/images/splash@2x.png
+xDerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash@2x.pngab234710c6b3b541^a4a84710c6b3b541^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash@2x.png000000000080d041^821"CpResource "resource/images/splash@2x.png" "DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/splash@2x.png"    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/guanjianjun/code/powercode/ios/BirdWatching/resource/images/splash@2x.png" /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app36"B48CB088-2CD9-4196-8DAD-D5AF73A903DE-
+
+CGenerateDSYMFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app.dSYM /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/BirdWatching
+s364103184.241083
+e364103184.259702
+r1
+xGenerateDSYMFile
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app.dSYM
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/BirdWatching
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Generating /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app.dSYM3fc93d10c6b3b541^6c7c4210c6b3b541^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app.dSYM/0000000000000000^836"GenerateDSYMFile DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app.dSYM DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/BirdWatching    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/BirdWatching -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app.dSYM36"860C5CCA-8F9B-4068-B5D4-F11066657700-
+
+CLd /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/BirdWatching normal i386
+s364103183.938568
+e364103184.233093
+r1
+xLd
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/BirdWatching
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Link /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/BirdWatching7d5bf00fc6b3b541^9fad3b10c6b3b541^---0#0#0#--1431"Ld DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/BirdWatching normal i386    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator -F/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator -filelist /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdWatching.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/BirdWatching36"77EC340B-951C-450E-98B3-E71FC5984CD9-
+
+CProcessInfoPlistFile /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Info.plist BirdWatching/BirdWatching-Info.plist
+s364103272.274722
+e364103272.295882
+r1
+xProcessInfoPlistFile
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Info.plist
+xBirdWatching/BirdWatching-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process BirdWatching/BirdWatching-Info.plist791f4768c6b3b541^f4c04b68c6b3b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdWatching-Info.plist0000000000000000^823"ProcessInfoPlistFile DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Info.plist BirdWatching/BirdWatching-Info.plist    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BirdWatching/BirdWatching-Info.plist -genpkginfo /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app/Info.plist36"61AFC52C-C0BC-4CB7-85C4-80EED0AF7148-
+
+CProcessPCH /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-dxfauswjoutsqrdbttdwueapxjwd/BirdWatching-Prefix.pch.pth BirdWatching/BirdWatching-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360152663.972302
+e360152670.287464
+r1
+xProcessPCH
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-dxfauswjoutsqrdbttdwueapxjwd/BirdWatching-Prefix.pch.pth
+xBirdWatching/BirdWatching-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile BirdWatching/BirdWatching-Prefix.pch8c15f9577e77b541^c24b4c5e7e77b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdWatching-Prefix.pch0000000000000000^3985"ProcessPCH DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-dxfauswjoutsqrdbttdwueapxjwd/BirdWatching-Prefix.pch.pth BirdWatching/BirdWatching-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -iquote/Users/guanjianjun/code/powercode/ios/libs/Log4Cocoa.framework/Headers -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/include -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator -F/Users/guanjianjun/code/powercode/ios/BirdWatching/../libs --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-dxfauswjoutsqrdbttdwueapxjwd/BirdWatching-Prefix.pch.dia -c /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdWatching-Prefix.pch -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-dxfauswjoutsqrdbttdwueapxjwd/BirdWatching-Prefix.pch.pth -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-dxfauswjoutsqrdbttdwueapxjwd/BirdWatching-Prefix.pch.d36"F8702F59-770D-461B-9338-7172C397A3E2-
+
+CProcessPCH /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch.pth BirdWatching/BirdWatching-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364103183.131304
+e364103183.786133
+r1
+xProcessPCH
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch.pth
+xBirdWatching/BirdWatching-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile BirdWatching/BirdWatching-Prefix.pch65e2220fc6b3b541^1440c90fc6b3b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdWatching-Prefix.pch0000000000000000^3846"ProcessPCH DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch.pth BirdWatching/BirdWatching-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/include -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/BirdWatching.build/Debug-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch.dia -c /Users/guanjianjun/code/powercode/ios/BirdWatching/BirdWatching/BirdWatching-Prefix.pch -o /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch.pth -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Intermediates/PrecompiledHeaders/BirdWatching-Prefix-fhecaefyrmdaeocyzldtdmsdcdcm/BirdWatching-Prefix.pch.d36"230CC326-22F8-4FD9-86F5-060BD3CA995C-
+
+CProcessPCH /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Index/PrecompiledHeaders/BirdWatching-Prefix-ehqgcptgbwkngcfdbelklzbmfmpp_ast/BirdWatching-Prefix.pch.pth BirdWatching/BirdWatching-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Index/PrecompiledHeaders/BirdWatching-Prefix-fzqiqraopljnokdmrtwhkninqepq_ast/BirdWatching-Prefix.pch.pth BirdWatching/BirdWatching-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app
+s364104868.588494
+e364104868.593124
+r1
+xTouch
+x/Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Touch /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app28b696a4ccb3b541^4dd797a4ccb3b541^---0#0#0#--490"Touch DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app    cd /Users/guanjianjun/code/powercode/ios/BirdWatching    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/guanjianjun/code/powercode/ios/BirdWatching/DerivedData/BirdWatching/Build/Products/Debug-iphonesimulator/BirdWatching.app36"B8CD3840-D482-48FB-802B-3B2A90FF1223-
+

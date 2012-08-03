@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns="http://logging.apache.org/log4php/">
+
+<appender name="myDailyFileAppender" class="LoggerAppenderDailyFile">
+<!--
+<layout class="LoggerLayoutTTCC" />
+-->
+<layout class="LoggerLayoutPattern">
+<param name="conversionPattern" value="[%d{Y-m-d H:i:s.u}][%-5p] %m%n" />
+</layout>
+<param name="file" value="/opt/lampp/logs/log4php-%s.log" />
+<param name="datePattern" value="Y-m-d" />
+</appender>
+
+
+<appender name="myFileAppender" class="LoggerAppenderDailyFile">
+<layout class="LoggerLayoutPattern">
+<param name="conversionPattern" value="[%d{Y-m-d H:i:s.u}][%-5p] %m%n" />
+</layout>
+<param name="file" value="/opt/lampp/logs/log4php.log" />
+</appender>
+
+<root>
+<level value="DEBUG" />
+<appender_ref ref="myFileAppender" />
+</root>
+
+</configuration>

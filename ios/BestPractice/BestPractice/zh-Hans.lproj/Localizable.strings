@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  BestPractice
+
+  Created by guanjianjun on 12-7-16.
+  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+*/
+
+"appname" = "Bird Watch";
+
+"privatetitle" = "私有框架调研";
+
+"shutdown" = "关机";
+"reboot" = "重启";
+"lockdevice" = "锁屏";
+"logout" = "注销";
+"suspend" = "休眠";
