@@ -7,6 +7,9 @@
 //
 
 #import "AppDelegate.h"
+//引入lumberjack头文件
+#import "DDLog.h"
+extern int ddLogLevel;
 
 @implementation AppDelegate
 
@@ -15,6 +18,10 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    DDLogVerbose(@"this is ddlog verbose");
+    DDLogInfo(@"this is ddlog info");
+    DDLogWarn(@"this is ddlog warn");
+    DDLogError(@"this is ddlog error");
     return YES;
 }
 							

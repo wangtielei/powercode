@@ -36,7 +36,16 @@
 		55987D9A15B42A6E002810B4 /* AddSightingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55987D9715B42A6E002810B4 /* AddSightingViewController.m */; };
 		55987D9B15B42A6E002810B4 /* BirdsDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55987D9915B42A6E002810B4 /* BirdsDetailViewController.m */; };
 		55987D9E15B42A78002810B4 /* BirdsMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55987D9D15B42A78002810B4 /* BirdsMasterViewController.m */; };
-		55BC7F9815BA963F006D2B07 /* libZXingWidget.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 55BC7F9715BA963F006D2B07 /* libZXingWidget.a */; };
+		5598CE0D15CFC5D000BB21F1 /* libZXingWidget.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5598CE0815CFC5A100BB21F1 /* libZXingWidget.a */; };
+		5598CE5215CFCE7B00BB21F1 /* DDAbstractDatabaseLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 5598CE4115CFCE7B00BB21F1 /* DDAbstractDatabaseLogger.m */; };
+		5598CE5315CFCE7B00BB21F1 /* DDASLLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 5598CE4315CFCE7B00BB21F1 /* DDASLLogger.m */; };
+		5598CE5415CFCE7B00BB21F1 /* DDFileLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 5598CE4515CFCE7B00BB21F1 /* DDFileLogger.m */; };
+		5598CE5515CFCE7B00BB21F1 /* DDLog.m in Sources */ = {isa = PBXBuildFile; fileRef = 5598CE4715CFCE7B00BB21F1 /* DDLog.m */; };
+		5598CE5615CFCE7B00BB21F1 /* DDTTYLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 5598CE4915CFCE7B00BB21F1 /* DDTTYLogger.m */; };
+		5598CE5715CFCE7B00BB21F1 /* ContextFilterLogFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 5598CE4C15CFCE7B00BB21F1 /* ContextFilterLogFormatter.m */; };
+		5598CE5815CFCE7B00BB21F1 /* CustomLogFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 5598CE4E15CFCE7B00BB21F1 /* CustomLogFormatter.m */; };
+		5598CE5915CFCE7B00BB21F1 /* DispatchQueueLogFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 5598CE5015CFCE7B00BB21F1 /* DispatchQueueLogFormatter.m */; };
+		5598CE5A15CFCE7B00BB21F1 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5598CE5115CFCE7B00BB21F1 /* README.txt */; };
 		55BC7F9A15BA9861006D2B07 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55BC7F9915BA9861006D2B07 /* AVFoundation.framework */; };
 		55BC7F9C15BA9874006D2B07 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55BC7F9B15BA9874006D2B07 /* AudioToolbox.framework */; };
 		55BC7F9E15BA988A006D2B07 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55BC7F9D15BA988A006D2B07 /* CoreVideo.framework */; };
@@ -47,6 +56,30 @@
 		55BC7FAB15BA99F1006D2B07 /* ZCodeViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 55BC7FAA15BA99F1006D2B07 /* ZCodeViewController.mm */; };
 		55BC7FAD15BAA0D7006D2B07 /* beep-beep.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 55BC7FAC15BAA0D7006D2B07 /* beep-beep.aiff */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5598CE0715CFC5A100BB21F1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5598CDFF15CFC5A100BB21F1 /* ZXingWidget.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D2AAC07E0554694100DB518D;
+			remoteInfo = ZXingWidget;
+		};
+		5598CE0915CFC5A100BB21F1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5598CDFF15CFC5A100BB21F1 /* ZXingWidget.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 1D60398D13DF7CAD006F4B51;
+			remoteInfo = ZXingTests;
+		};
+		5598CE0B15CFC5C400BB21F1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5598CDFF15CFC5A100BB21F1 /* ZXingWidget.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = D2AAC07D0554694100DB518D;
+			remoteInfo = ZXingWidget;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		556CE1D615B5353100762FFA /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
@@ -91,6 +124,24 @@
 		55987D9915B42A6E002810B4 /* BirdsDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BirdsDetailViewController.m; path = ../../BirdWatching/BirdWatching/BirdsDetailViewController.m; sourceTree = "<group>"; };
 		55987D9C15B42A78002810B4 /* BirdsMasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BirdsMasterViewController.h; path = ../../BirdWatching/BirdWatching/BirdsMasterViewController.h; sourceTree = "<group>"; };
 		55987D9D15B42A78002810B4 /* BirdsMasterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BirdsMasterViewController.m; path = ../../BirdWatching/BirdWatching/BirdsMasterViewController.m; sourceTree = "<group>"; };
+		5598CDFF15CFC5A100BB21F1 /* ZXingWidget.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ZXingWidget.xcodeproj; path = ZXingWidget/ZXingWidget.xcodeproj; sourceTree = "<group>"; };
+		5598CE4015CFCE7B00BB21F1 /* DDAbstractDatabaseLogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDAbstractDatabaseLogger.h; sourceTree = "<group>"; };
+		5598CE4115CFCE7B00BB21F1 /* DDAbstractDatabaseLogger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDAbstractDatabaseLogger.m; sourceTree = "<group>"; };
+		5598CE4215CFCE7B00BB21F1 /* DDASLLogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDASLLogger.h; sourceTree = "<group>"; };
+		5598CE4315CFCE7B00BB21F1 /* DDASLLogger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDASLLogger.m; sourceTree = "<group>"; };
+		5598CE4415CFCE7B00BB21F1 /* DDFileLogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDFileLogger.h; sourceTree = "<group>"; };
+		5598CE4515CFCE7B00BB21F1 /* DDFileLogger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDFileLogger.m; sourceTree = "<group>"; };
+		5598CE4615CFCE7B00BB21F1 /* DDLog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDLog.h; sourceTree = "<group>"; };
+		5598CE4715CFCE7B00BB21F1 /* DDLog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDLog.m; sourceTree = "<group>"; };
+		5598CE4815CFCE7B00BB21F1 /* DDTTYLogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDTTYLogger.h; sourceTree = "<group>"; };
+		5598CE4915CFCE7B00BB21F1 /* DDTTYLogger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDTTYLogger.m; sourceTree = "<group>"; };
+		5598CE4B15CFCE7B00BB21F1 /* ContextFilterLogFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContextFilterLogFormatter.h; sourceTree = "<group>"; };
+		5598CE4C15CFCE7B00BB21F1 /* ContextFilterLogFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContextFilterLogFormatter.m; sourceTree = "<group>"; };
+		5598CE4D15CFCE7B00BB21F1 /* CustomLogFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomLogFormatter.h; sourceTree = "<group>"; };
+		5598CE4E15CFCE7B00BB21F1 /* CustomLogFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomLogFormatter.m; sourceTree = "<group>"; };
+		5598CE4F15CFCE7B00BB21F1 /* DispatchQueueLogFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DispatchQueueLogFormatter.h; sourceTree = "<group>"; };
+		5598CE5015CFCE7B00BB21F1 /* DispatchQueueLogFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DispatchQueueLogFormatter.m; sourceTree = "<group>"; };
+		5598CE5115CFCE7B00BB21F1 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 		55BC7F9715BA963F006D2B07 /* libZXingWidget.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libZXingWidget.a; sourceTree = "<group>"; };
 		55BC7F9915BA9861006D2B07 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		55BC7F9B15BA9874006D2B07 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
@@ -109,6 +160,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5598CE0D15CFC5D000BB21F1 /* libZXingWidget.a in Frameworks */,
 				55BC7FA715BA98FA006D2B07 /* AddressBook.framework in Frameworks */,
 				55BC7FA815BA98FA006D2B07 /* AddressBookUI.framework in Frameworks */,
 				55BC7FA415BA98D1006D2B07 /* libiconv.dylib in Frameworks */,
@@ -116,7 +168,6 @@
 				55BC7F9E15BA988A006D2B07 /* CoreVideo.framework in Frameworks */,
 				55BC7F9C15BA9874006D2B07 /* AudioToolbox.framework in Frameworks */,
 				55BC7F9A15BA9861006D2B07 /* AVFoundation.framework in Frameworks */,
-				55BC7F9815BA963F006D2B07 /* libZXingWidget.a in Frameworks */,
 				55987D2715B3CF40002810B4 /* UIKit.framework in Frameworks */,
 				55987D2915B3CF40002810B4 /* Foundation.framework in Frameworks */,
 				55987D2B15B3CF40002810B4 /* CoreGraphics.framework in Frameworks */,
@@ -129,6 +180,8 @@
 		55987D1715B3CF40002810B4 = {
 			isa = PBXGroup;
 			children = (
+				5598CE3F15CFCE7B00BB21F1 /* lumberjack */,
+				5598CDFD15CFC58400BB21F1 /* Dependencies */,
 				55987D5515B3F489002810B4 /* images */,
 				55987D2C15B3CF40002810B4 /* BestPractice */,
 				55987D2515B3CF40002810B4 /* Frameworks */,
@@ -223,6 +276,56 @@
 			name = images;
 			sourceTree = "<group>";
 		};
+		5598CDFD15CFC58400BB21F1 /* Dependencies */ = {
+			isa = PBXGroup;
+			children = (
+				5598CDFF15CFC5A100BB21F1 /* ZXingWidget.xcodeproj */,
+			);
+			name = Dependencies;
+			sourceTree = "<group>";
+		};
+		5598CE0015CFC5A100BB21F1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5598CE0815CFC5A100BB21F1 /* libZXingWidget.a */,
+				5598CE0A15CFC5A100BB21F1 /* ZXingTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5598CE3F15CFCE7B00BB21F1 /* lumberjack */ = {
+			isa = PBXGroup;
+			children = (
+				5598CE4015CFCE7B00BB21F1 /* DDAbstractDatabaseLogger.h */,
+				5598CE4115CFCE7B00BB21F1 /* DDAbstractDatabaseLogger.m */,
+				5598CE4215CFCE7B00BB21F1 /* DDASLLogger.h */,
+				5598CE4315CFCE7B00BB21F1 /* DDASLLogger.m */,
+				5598CE4415CFCE7B00BB21F1 /* DDFileLogger.h */,
+				5598CE4515CFCE7B00BB21F1 /* DDFileLogger.m */,
+				5598CE4615CFCE7B00BB21F1 /* DDLog.h */,
+				5598CE4715CFCE7B00BB21F1 /* DDLog.m */,
+				5598CE4815CFCE7B00BB21F1 /* DDTTYLogger.h */,
+				5598CE4915CFCE7B00BB21F1 /* DDTTYLogger.m */,
+				5598CE4A15CFCE7B00BB21F1 /* Extensions */,
+			);
+			name = lumberjack;
+			path = ../extern/lumberjack;
+			sourceTree = "<group>";
+		};
+		5598CE4A15CFCE7B00BB21F1 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				5598CE4B15CFCE7B00BB21F1 /* ContextFilterLogFormatter.h */,
+				5598CE4C15CFCE7B00BB21F1 /* ContextFilterLogFormatter.m */,
+				5598CE4D15CFCE7B00BB21F1 /* CustomLogFormatter.h */,
+				5598CE4E15CFCE7B00BB21F1 /* CustomLogFormatter.m */,
+				5598CE4F15CFCE7B00BB21F1 /* DispatchQueueLogFormatter.h */,
+				5598CE5015CFCE7B00BB21F1 /* DispatchQueueLogFormatter.m */,
+				5598CE5115CFCE7B00BB21F1 /* README.txt */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -237,6 +340,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				5598CE0C15CFC5C400BB21F1 /* PBXTargetDependency */,
 			);
 			name = BestPractice;
 			productName = BestPractice;
@@ -262,12 +366,35 @@
 			mainGroup = 55987D1715B3CF40002810B4;
 			productRefGroup = 55987D2315B3CF40002810B4 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 5598CE0015CFC5A100BB21F1 /* Products */;
+					ProjectRef = 5598CDFF15CFC5A100BB21F1 /* ZXingWidget.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				55987D2115B3CF40002810B4 /* BestPractice */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		5598CE0815CFC5A100BB21F1 /* libZXingWidget.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libZXingWidget.a;
+			remoteRef = 5598CE0715CFC5A100BB21F1 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5598CE0A15CFC5A100BB21F1 /* ZXingTests.octest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = ZXingTests.octest;
+			remoteRef = 5598CE0915CFC5A100BB21F1 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		55987D2015B3CF40002810B4 /* Resources */ = {
@@ -292,6 +419,7 @@
 				55987D8515B42693002810B4 /* ranks.png in Resources */,
 				55987D8615B42693002810B4 /* ranks@2x.png in Resources */,
 				55BC7FAD15BAA0D7006D2B07 /* beep-beep.aiff in Resources */,
+				5598CE5A15CFCE7B00BB21F1 /* README.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,10 +440,26 @@
 				55987D9B15B42A6E002810B4 /* BirdsDetailViewController.m in Sources */,
 				55987D9E15B42A78002810B4 /* BirdsMasterViewController.m in Sources */,
 				55BC7FAB15BA99F1006D2B07 /* ZCodeViewController.mm in Sources */,
+				5598CE5215CFCE7B00BB21F1 /* DDAbstractDatabaseLogger.m in Sources */,
+				5598CE5315CFCE7B00BB21F1 /* DDASLLogger.m in Sources */,
+				5598CE5415CFCE7B00BB21F1 /* DDFileLogger.m in Sources */,
+				5598CE5515CFCE7B00BB21F1 /* DDLog.m in Sources */,
+				5598CE5615CFCE7B00BB21F1 /* DDTTYLogger.m in Sources */,
+				5598CE5715CFCE7B00BB21F1 /* ContextFilterLogFormatter.m in Sources */,
+				5598CE5815CFCE7B00BB21F1 /* CustomLogFormatter.m in Sources */,
+				5598CE5915CFCE7B00BB21F1 /* DispatchQueueLogFormatter.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5598CE0C15CFC5C400BB21F1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ZXingWidget;
+			targetProxy = 5598CE0B15CFC5C400BB21F1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		55987D2F15B3CF41002810B4 /* InfoPlist.strings */ = {
@@ -398,8 +542,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BestPractice/BestPractice-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
+					ZXingWidget/cppsrc,
 					"Classes/**",
-					zxingcpp,
+					ZXingWidget/DecodeQR,
+					"ZXingWidget/Classes/**",
 				);
 				INFOPLIST_FILE = "BestPractice/BestPractice-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
@@ -419,8 +565,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BestPractice/BestPractice-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
+					ZXingWidget/cppsrc,
 					"Classes/**",
-					zxingcpp,
+					ZXingWidget/DecodeQR,
+					"ZXingWidget/Classes/**",
 				);
 				INFOPLIST_FILE = "BestPractice/BestPractice-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
