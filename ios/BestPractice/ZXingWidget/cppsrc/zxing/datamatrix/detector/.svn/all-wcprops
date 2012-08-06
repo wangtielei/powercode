@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix/detector
+END
+Detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix/detector/Detector.h
+END
+CornerPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix/detector/CornerPoint.cpp
+END
+MonochromeRectangleDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix/detector/MonochromeRectangleDetector.cpp
+END
+CornerPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix/detector/CornerPoint.h
+END
+DetectorException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix/detector/DetectorException.cpp
+END
+Detector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix/detector/Detector.cpp
+END
+MonochromeRectangleDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix/detector/MonochromeRectangleDetector.h
+END
+DetectorException.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix/detector/DetectorException.h
+END

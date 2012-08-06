@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/444479/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes
+END
+MultiFormatOneDReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/MultiFormatOneDReader.h
+END
+FormatReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/FormatReader.mm
+END
+CBarcodeFormat.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/CBarcodeFormat.mm
+END
+ArrayAndStringCategories.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/ArrayAndStringCategories.h
+END
+DecoderDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/DecoderDelegate.h
+END
+QRCodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/QRCodeReader.h
+END
+TwoDDecoderResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/TwoDDecoderResult.h
+END
+DataMatrixReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/DataMatrixReader.mm
+END
+ArrayAndStringCategories.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/ArrayAndStringCategories.m
+END
+MultiFormatUPCEANReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/MultiFormatUPCEANReader.mm
+END
+Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/Decoder.h
+END
+NSString+HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/NSString+HTML.h
+END
+TwoDDecoderResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/TwoDDecoderResult.m
+END
+ZXingWidgetController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/443052/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/ZXingWidgetController.h
+END
+MultiFormatReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/MultiFormatReader.mm
+END
+FormatReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/FormatReader.h
+END
+CBarcodeFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/CBarcodeFormat.h
+END
+NSString+HTML.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/NSString+HTML.m
+END
+OverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/OverlayView.h
+END
+ZXingWidgetController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/444479/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/ZXingWidgetController.m
+END
+MultiFormatOneDReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/MultiFormatOneDReader.mm
+END
+DataMatrixReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/DataMatrixReader.h
+END
+OverlayView.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/439144/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/OverlayView.m
+END
+MultiFormatUPCEANReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/MultiFormatUPCEANReader.h
+END
+QRCodeReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/QRCodeReader.mm
+END
+Decoder.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/Decoder.mm
+END

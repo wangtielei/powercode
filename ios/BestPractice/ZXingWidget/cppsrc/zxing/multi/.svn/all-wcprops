@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/multi
+END
+MultipleBarcodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/multi/MultipleBarcodeReader.cpp
+END
+GenericMultipleBarcodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/multi/GenericMultipleBarcodeReader.h
+END
+ByQuadrantReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/multi/ByQuadrantReader.h
+END
+MultipleBarcodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/multi/MultipleBarcodeReader.h
+END
+GenericMultipleBarcodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/multi/GenericMultipleBarcodeReader.cpp
+END
+ByQuadrantReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/multi/ByQuadrantReader.cpp
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions
+END
+CallAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/CallAction.h
+END
+EmailAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/EmailAction.m
+END
+ResultAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/ResultAction.h
+END
+ShowMapAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/ShowMapAction.h
+END
+CallAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/CallAction.m
+END
+SMSAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/SMSAction.h
+END
+ResultAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/ResultAction.m
+END
+ShowMapAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/ShowMapAction.m
+END
+AddContactAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/AddContactAction.h
+END
+OpenUrlAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/OpenUrlAction.h
+END
+EmailAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/EmailAction.h
+END
+SMSAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/SMSAction.m
+END
+AddContactAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/AddContactAction.m
+END
+OpenUrlAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/Classes/actions/OpenUrlAction.m
+END

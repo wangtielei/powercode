@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/qrcode
+END
+ErrorCorrectionLevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/qrcode/ErrorCorrectionLevel.h
+END
+FormatInformation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/qrcode/FormatInformation.cpp
+END
+QRCodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/qrcode/QRCodeReader.cpp
+END
+FormatInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/qrcode/FormatInformation.h
+END
+QRCodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/qrcode/QRCodeReader.h
+END
+Version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/qrcode/Version.cpp
+END
+ErrorCorrectionLevel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/qrcode/ErrorCorrectionLevel.cpp
+END
+Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/qrcode/Version.h
+END

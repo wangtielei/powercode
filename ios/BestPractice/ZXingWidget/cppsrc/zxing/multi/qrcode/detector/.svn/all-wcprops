@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/multi/qrcode/detector
+END
+MultiDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/multi/qrcode/detector/MultiDetector.cpp
+END
+MultiFinderPatternFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/multi/qrcode/detector/MultiFinderPatternFinder.cpp
+END
+MultiDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/multi/qrcode/detector/MultiDetector.h
+END
+MultiFinderPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/multi/qrcode/detector/MultiFinderPatternFinder.h
+END

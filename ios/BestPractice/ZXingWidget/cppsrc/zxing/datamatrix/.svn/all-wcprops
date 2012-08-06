@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix
+END
+DataMatrixReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix/DataMatrixReader.cpp
+END
+Version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix/Version.cpp
+END
+DataMatrixReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix/DataMatrixReader.h
+END
+Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/datamatrix/Version.h
+END

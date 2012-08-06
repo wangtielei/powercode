@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned
+END
+OneDResultPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/OneDResultPoint.cpp
+END
+UPCEANReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/UPCEANReader.cpp
+END
+EAN13Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/EAN13Reader.h
+END
+MultiFormatOneDReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/MultiFormatOneDReader.h
+END
+OneDResultPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/OneDResultPoint.h
+END
+UPCEANReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/UPCEANReader.h
+END
+ITFReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/ITFReader.cpp
+END
+OneDReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/OneDReader.cpp
+END
+Code39Reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/Code39Reader.cpp
+END
+ITFReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/ITFReader.h
+END
+UPCAReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/UPCAReader.cpp
+END
+OneDReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/OneDReader.h
+END
+EAN8Reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/EAN8Reader.cpp
+END
+Code39Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/Code39Reader.h
+END
+UPCEReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/UPCEReader.cpp
+END
+UPCAReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/UPCAReader.h
+END
+MultiFormatUPCEANReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/MultiFormatUPCEANReader.cpp
+END
+EAN8Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/EAN8Reader.h
+END
+UPCEReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/UPCEReader.h
+END
+MultiFormatUPCEANReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/MultiFormatUPCEANReader.h
+END
+Code128Reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/Code128Reader.cpp
+END
+EAN13Reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/EAN13Reader.cpp
+END
+MultiFormatOneDReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/MultiFormatOneDReader.cpp
+END
+Code128Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/438903/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/cppsrc/zxing/oned/Code128Reader.h
+END

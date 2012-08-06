@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/449179/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/DecodeQR
+END
+FileManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/449179/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/DecodeQR/FileManager.h
+END
+win2ansi.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/449179/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/DecodeQR/win2ansi.h
+END
+Barcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/449179/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/DecodeQR/Barcode.h
+END
+FileManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/449179/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/DecodeQR/FileManager.m
+END
+QR_Encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/449179/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/DecodeQR/QR_Encode.h
+END
+qr_draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/449179/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/DecodeQR/qr_draw.h
+END
+Barcode.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/449179/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/DecodeQR/Barcode.mm
+END
+QR_Encode.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/449199/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/DecodeQR/QR_Encode.mm
+END
+qr_draw_png.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/449179/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/DecodeQR/qr_draw_png.h
+END
+qr_draw_png.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/449179/Browser_Pad_iOS/trunk/AppInstaller/ZXingWidget/DecodeQR/qr_draw_png.mm
+END
