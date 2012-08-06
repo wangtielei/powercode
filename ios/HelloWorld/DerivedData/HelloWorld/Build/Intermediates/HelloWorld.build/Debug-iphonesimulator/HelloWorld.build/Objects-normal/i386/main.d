@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/main.m \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldAppDelegate.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/Log4Cocoa.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4AppenderAttachable.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4AppenderProtocols.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4AppenderSkeleton.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4BasicConfigurator.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4PropertyConfigurator.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4ConsoleAppender.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4WriterAppender.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4DenyAllFilter.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4Filter.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4FileAppender.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4JSONLayout.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4Layout.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4Level.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4LevelMatchFilter.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4LevelRangeFilter.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4Logger.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4LoggerProtocols.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4Logging.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/Log4CocoaDefines.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4LoggerStore.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4LogEvent.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4PatternLayout.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4Properties.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4RollingFileAppender.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4DailyRollingFileAppender.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4RootLogger.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4SimpleLayout.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4StringMatchFilter.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4XMLLayout.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/NSObject+Log4Cocoa.h \
+  /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDLog.h

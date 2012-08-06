@@ -1,0 +1,732 @@
+THelloWorld
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/Info.plist HelloWorld/HelloWorld-Info.plist
+cProcessPCH /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch.pth HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldViewController.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDASLLogger.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDASLLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDFileLogger.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDFileLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDAbstractDatabaseLogger.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDAbstractDatabaseLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDLog.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDLog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDTTYLogger.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDTTYLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ContextFilterLogFormatter.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/ContextFilterLogFormatter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DispatchQueueLogFormatter.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/DispatchQueueLogFormatter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CustomLogFormatter.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/CustomLogFormatter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/HelloWorld normal i386
+cGenerateDSYMFile /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+cCopyStringsFile /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/en.lproj/InfoPlist.strings HelloWorld/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/en.lproj/MainStoryboard.storyboard
+cCpResource HelloWorld/../../include/Log4Cocoa/log4cocoa.properties DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/log4cocoa.properties
+cCpResource HelloWorld/../../include/lumberjack/Extensions/README.txt DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/README.txt
+cTouch /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F68C5090000000000244490
+t1332266249
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F68C5130000000000353830
+t1332266259
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F68C52C0000000000905E40
+t1332266284
+s9461312
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/../libs/libLog4Cocoa.a
+c000000004FC74E6D000000000007DB10
+t1338461805
+s514832
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ContextFilterLogFormatter.o
+t1338793785
+s24600
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CustomLogFormatter.o
+t1338797166
+s15672
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDASLLogger.o
+t1338793784
+s13744
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDAbstractDatabaseLogger.o
+t1338793784
+s57564
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDFileLogger.o
+t1338793785
+s119232
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDLog.o
+t1338793785
+s84092
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDTTYLogger.o
+t1338793786
+s158660
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DispatchQueueLogFormatter.o
+t1338793786
+s23784
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c000000004FCC6C6E000000000000080D
+t1338797166
+s2061
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+t1338797966
+s69352
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldViewController.o
+t1338793783
+s60748
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/QVLogFormatter.o
+t2
+s0
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1338793890
+s7364
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-bbixobremtsigudkpoebfbmjvmpj/HelloWorld-Prefix.pch.pth
+t1338524137
+s4029284
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch.pth
+t1338793747
+s4029284
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app
+t1338797966
+s272
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM
+t1338797966
+s102
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+t1338797966
+s367568
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/Info.plist
+t1338524129
+s886
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/PkgInfo
+t1338524129
+s8
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/README.txt
+t1338793891
+s321
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/en.lproj/InfoPlist.strings
+t1338524260
+s42
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/en.lproj/MainStoryboard.storyboardc
+t1338524266
+s170
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/log4cocoa.properties
+t1338524785
+s478
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4AppenderAttachable.h
+c000000004F500D5000000000000002F1
+t1330646352
+s753
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4AppenderProtocols.h
+c000000004F500D500000000000000CB4
+t1330646352
+s3252
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4AppenderSkeleton.h
+c000000004F500D500000000000000799
+t1330646352
+s1945
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4BasicConfigurator.h
+c000000004F500D500000000000000184
+t1330646352
+s388
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4ConsoleAppender.h
+c000000004F500D500000000000000740
+t1330646352
+s1856
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4DailyRollingFileAppender.h
+c000000004F500D500000000000000CB1
+t1330646352
+s3249
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4DenyAllFilter.h
+c000000004F500D500000000000000194
+t1330646352
+s404
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4FileAppender.h
+c000000004F500D500000000000000DEA
+t1330646352
+s3562
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4Filter.h
+c000000004F500D500000000000000592
+t1330646352
+s1426
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4JSONLayout.h
+c000000004F500D5000000000000000D0
+t1330646352
+s208
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4Layout.h
+c000000004F500D5000000000000005AF
+t1330646352
+s1455
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4Level.h
+c000000004F500D50000000000000129A
+t1330646352
+s4762
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4LevelMatchFilter.h
+c000000004F500D500000000000000822
+t1330646352
+s2082
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4LevelRangeFilter.h
+c000000004F500D500000000000000A4C
+t1330646352
+s2636
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4LogEvent.h
+c000000004F500D5000000000000012C6
+t1330646352
+s4806
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4Logger.h
+c000000004F500D500000000000002773
+t1330646352
+s10099
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4LoggerProtocols.h
+c000000004F500D5000000000000009BB
+t1330646352
+s2491
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4LoggerStore.h
+c000000004F500D500000000000000B98
+t1330646352
+s2968
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4Logging.h
+c000000004F500D5000000000000016C7
+t1330646352
+s5831
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4PatternLayout.h
+c000000004F500D5000000000000038AA
+t1330646352
+s14506
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4Properties.h
+c000000004F500D5000000000000010F1
+t1330646352
+s4337
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4PropertyConfigurator.h
+c000000004F500D50000000000000182E
+t1330646352
+s6190
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4RollingFileAppender.h
+c000000004F500D5000000000000013FB
+t1330646352
+s5115
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4RootLogger.h
+c000000004F500D5000000000000002C9
+t1330646352
+s713
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4SimpleLayout.h
+c000000004F500D500000000000000267
+t1330646352
+s615
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4StringMatchFilter.h
+c000000004F500D5000000000000007DA
+t1330646352
+s2010
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4WriterAppender.h
+c000000004F500D500000000000000E68
+t1330646352
+s3688
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/L4XMLLayout.h
+c000000004F500D500000000000000089
+t1330646352
+s137
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/Log4Cocoa.h
+c000000004F500D5000000000000003A1
+t1330646352
+s929
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/Log4CocoaDefines.h
+c000000004F500D500000000000000198
+t1330646352
+s408
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/NSObject+Log4Cocoa.h
+c000000004F500D5000000000000005C7
+t1330646352
+s1479
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/log4cocoa.properties
+c000000004FC842E000000000000001DE
+t1338524384
+s478
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDASLLogger.h
+c000000004FC73766000000000000049A
+t1338455910
+s1178
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDASLLogger.m
+c000000004FC737660000000000000929
+t1338455910
+s2345
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDAbstractDatabaseLogger.h
+c000000004FC737660000000000000E7D
+t1338455910
+s3709
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDAbstractDatabaseLogger.m
+c000000004FC737660000000000003762
+t1338455910
+s14178
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDFileLogger.h
+c000000004FC737660000000000002EBA
+t1338455910
+s11962
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDFileLogger.m
+c000000004FC737660000000000008E76
+t1338455910
+s36470
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDLog.h
+c000000004FC737660000000000004C61
+t1338455910
+s19553
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDLog.m
+c000000004FC7376600000000000074C0
+t1338455910
+s29888
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDTTYLogger.h
+c000000004FC7376600000000000010D4
+t1338455910
+s4308
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDTTYLogger.m
+c000000004FC73766000000000000ABD3
+t1338455910
+s43987
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/ContextFilterLogFormatter.h
+c000000004FC7376600000000000008BD
+t1338455910
+s2237
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/ContextFilterLogFormatter.m
+c000000004FC737660000000000000EC8
+t1338455910
+s3784
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/CustomLogFormatter.h
+c000000004FCC693B00000000000000B6
+t1338796347
+s182
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/CustomLogFormatter.m
+c000000004FCC6A2C0000000000000684
+t1338796588
+s1668
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/DispatchQueueLogFormatter.h
+c000000004FC73766000000000000117E
+t1338455910
+s4478
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/DispatchQueueLogFormatter.m
+c000000004FC7376600000000000013F9
+t1338455910
+s5113
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/QVLogFormatter.m
+c000000004FBA097E00000000000006EF
+t1337592190
+s1775
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/README.txt
+c000000004FC737660000000000000141
+t1338455910
+s321
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorld-Prefix.pch
+c000000004FC497EA0000000000000143
+t1338284010
+s323
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldAppDelegate.h
+c000000004FC8464A0000000000000133
+t1338525258
+s307
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldAppDelegate.m
+c000000004FCC71BB0000000000000F03
+t1338798523
+s3843
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldViewController.h
+c000000004FC8464D0000000000000289
+t1338525261
+s649
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldViewController.m
+c000000004FC846400000000000000A05
+t1338525248
+s2565
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/en.lproj/InfoPlist.strings
+c000000004FC497EA000000000000002D
+t1338284010
+s45
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/en.lproj/MainStoryboard.storyboard
+c000000004FC72A3D0000000000001440
+t1338452541
+s5184
+
+N/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/main.m
+c000000004FCC5F9E00000000000004EB
+t1338793886
+s1259
+
+NHelloWorld/HelloWorld-Info.plist
+c000000004FC4A345000000000000050E
+t1338286917
+s1294
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDASLLogger.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDAbstractDatabaseLogger.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDFileLogger.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDLog.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDTTYLogger.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/ContextFilterLogFormatter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/CustomLogFormatter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/DispatchQueueLogFormatter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/QVLogFormatter.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldAppDelegate.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldViewController.m
+r0
+
+CBuild AST from /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3d64aa3da97cb541^d239b73da97cb541^---0#1#0#--18"Check dependencies36"23D6A58E-0B3D-4783-9CEC-DBF6F0FC1E88-
+
+CCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ContextFilterLogFormatter.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/ContextFilterLogFormatter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360486585.713065
+e360486585.784971
+r1
+xCompileC
+xDerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ContextFilterLogFormatter.o
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/ContextFilterLogFormatter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/ContextFilterLogFormatter.mafb2b6b9967cb541^9a06c9b9967cb541^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/ContextFilterLogFormatter.m0000000000000000^5126"CompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ContextFilterLogFormatter.o HelloWorld/../../include/lumberjack/Extensions/ContextFilterLogFormatter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/include -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ContextFilterLogFormatter.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ContextFilterLogFormatter.dia -c /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/ContextFilterLogFormatter.m -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ContextFilterLogFormatter.o36"4C236C5D-8E44-4277-899E-6F0DBAAD16F4-
+
+CCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CustomLogFormatter.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/CustomLogFormatter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360489966.222502
+e360489966.567719
+r1
+xCompileC
+xDerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CustomLogFormatter.o
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/CustomLogFormatter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/CustomLogFormatter.m6c2439eea37cb541^7b6691eea37cb541^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/CustomLogFormatter.m0000000000000000^5084"CompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CustomLogFormatter.o HelloWorld/../../include/lumberjack/Extensions/CustomLogFormatter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/include -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CustomLogFormatter.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CustomLogFormatter.dia -c /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/CustomLogFormatter.m -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CustomLogFormatter.o36"FBD725AC-0CFB-4861-8279-44C9BDC39BB1-
+
+CCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDASLLogger.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDASLLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360486583.693419
+e360486584.063212
+r1
+xCompileC
+xDerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDASLLogger.o
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDASLLogger.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDASLLogger.ma7b1b1b7967cb541^e2ac10b8967cb541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDASLLogger.m0000000000000000^5020"CompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDASLLogger.o HelloWorld/../../include/lumberjack/DDASLLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/include -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDASLLogger.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDASLLogger.dia -c /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDASLLogger.m -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDASLLogger.o36"F36B240E-B535-4F12-9A7B-0FE3968CF380-
+
+CCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDAbstractDatabaseLogger.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDAbstractDatabaseLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360486583.030492
+e360486584.221815
+r1
+xCompileC
+xDerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDAbstractDatabaseLogger.o
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDAbstractDatabaseLogger.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDAbstractDatabaseLogger.m8a5808b7967cb541^0d5139b8967cb541^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDAbstractDatabaseLogger.m0000000000000000^5098"CompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDAbstractDatabaseLogger.o HelloWorld/../../include/lumberjack/DDAbstractDatabaseLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/include -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDAbstractDatabaseLogger.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDAbstractDatabaseLogger.dia -c /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDAbstractDatabaseLogger.m -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDAbstractDatabaseLogger.o36"C90444A2-0118-4CA7-823F-85AEAAC131B9-
+
+CCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDFileLogger.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDFileLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360486584.071969
+e360486585.544331
+r1
+xCompileC
+xDerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDFileLogger.o
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDFileLogger.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDFileLogger.m73f212b8967cb541^635e8bb9967cb541^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDFileLogger.m0000000000000000^5026"CompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDFileLogger.o HelloWorld/../../include/lumberjack/DDFileLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/include -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDFileLogger.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDFileLogger.dia -c /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDFileLogger.m -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDFileLogger.o36"88289BA0-18E7-4B89-A0D7-9F6744CD4413-
+
+CCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDLog.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDLog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360486584.225322
+e360486585.710931
+r1
+xCompileC
+xDerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDLog.o
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDLog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDLog.m67f239b8967cb541^b000b6b9967cb541^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDLog.m0000000000000000^4984"CompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDLog.o HelloWorld/../../include/lumberjack/DDLog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/include -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDLog.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDLog.dia -c /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDLog.m -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDLog.o36"C2D1DFCE-EC92-4D0F-947C-FBC9B72084EC-
+
+CCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDTTYLogger.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDTTYLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360486585.546506
+e360486586.087361
+r1
+xCompileC
+xDerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDTTYLogger.o
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDTTYLogger.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDTTYLogger.m09538cb9967cb541^b66716ba967cb541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDTTYLogger.m0000000000000000^5020"CompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDTTYLogger.o HelloWorld/../../include/lumberjack/DDTTYLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/include -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDTTYLogger.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDTTYLogger.dia -c /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/DDTTYLogger.m -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DDTTYLogger.o36"657CF043-B1FC-4806-8786-FCE4B7EB3C50-
+
+CCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DispatchQueueLogFormatter.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/DispatchQueueLogFormatter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360486585.813717
+e360486586.175012
+r1
+xCompileC
+xDerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DispatchQueueLogFormatter.o
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/DispatchQueueLogFormatter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/DispatchQueueLogFormatter.me291d0b9967cb541^09fd2cba967cb541^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/DispatchQueueLogFormatter.m0000000000000000^5126"CompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DispatchQueueLogFormatter.o HelloWorld/../../include/lumberjack/Extensions/DispatchQueueLogFormatter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/include -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DispatchQueueLogFormatter.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DispatchQueueLogFormatter.dia -c /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/DispatchQueueLogFormatter.m -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/DispatchQueueLogFormatter.o36"C48BD3AF-4FCC-4B57-8B62-E5BD14504F03-
+
+CCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360491325.829740
+e360491326.112046
+r1
+xCompileC
+xDerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldAppDelegate.ma1a0d43da97cb541^9faf1d3ea97cb541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldAppDelegate.m0000000000000000^5030"CompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o HelloWorld/HelloWorldAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/include -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.dia -c /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldAppDelegate.m -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o36"94104E1D-147C-4AF1-A46F-9BBE3522B063-
+
+CCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldViewController.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360486580.448115
+e360486583.678599
+r1
+xCompileC
+xDerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldViewController.o
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldViewController.m0e6673b4967cb541^b7d4adb7967cb541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldViewController.m0000000000000000^5048"CompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldViewController.o HelloWorld/HelloWorldViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/include -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldViewController.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldViewController.dia -c /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorldViewController.m -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldViewController.o36"08B2DBBE-622A-421E-BDCF-85E59B306A6C-
+
+CCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/QVLogFormatter.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/QVLogFormatter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360486690.205040
+e360486690.402969
+r1
+xCompileC
+xDerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/main.md3a43422977cb541^bd1c8e22977cb541^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/main.m0000000000000000^4928"CompileC DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/include -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -include /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.dia -c /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/main.m -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o36"161F2851-6640-4A5E-B77D-CF4581D21C4C-
+
+CCompileStoryboard /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/en.lproj/MainStoryboard.storyboard
+s360217060.727383
+e360217066.975672
+r1
+xCompileStoryboard
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/en.lproj/MainStoryboard.storyboard
+o2012-06-01 12:17:44.911 Interface Builder Cocoa Touch Tool[2218:13203] CFPreferences: user home directory at file://localhost/Users/guanjianjun/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CompileStoryboard HelloWorld/en.lproj/MainStoryboard.storyboard0855bae47978b541^0610faea7978b541^-246"2012-06-01 12:17:44.911 Interface Builder Cocoa Touch Tool[2218:13203] CFPreferences: user home directory at file://localhost/Users/guanjianjun/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/en.lproj/MainStoryboard.storyboard0000000000000000^970"CompileStoryboard HelloWorld/en.lproj/MainStoryboard.storyboard    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/en.lproj/MainStoryboard.storyboardc /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"6948C129-F9B9-4763-BBAB-B6A64B4C443C-
+
+CCopyStringsFile /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/en.lproj/InfoPlist.strings HelloWorld/en.lproj/InfoPlist.strings
+s360217060.724803
+e360217060.735025
+r1
+xCopyStringsFile
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/en.lproj/InfoPlist.strings
+xHelloWorld/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy HelloWorld/en.lproj/InfoPlist.strings32adb9e47978b541^2e70bde47978b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/en.lproj/InfoPlist.strings0000000000000000^671"CopyStringsFile DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/en.lproj/InfoPlist.strings HelloWorld/en.lproj/InfoPlist.strings    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/en.lproj -- HelloWorld/en.lproj/InfoPlist.strings36"F31D0400-CB7B-4AF8-A4F9-D6330EBA8A1B-
+
+CCpResource HelloWorld/../../include/Log4Cocoa/log4cocoa.properties DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/log4cocoa.properties
+s360217585.105605
+e360217585.109333
+r1
+xCpResource
+xHelloWorld/../../include/Log4Cocoa/log4cocoa.properties
+xDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/log4cocoa.properties
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/log4cocoa.propertiese21e1bf17b78b541^e10a1cf17b78b541^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/log4cocoa.properties0000000000000000^860"CpResource HelloWorld/../../include/Log4Cocoa/log4cocoa.properties DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/log4cocoa.properties    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/Log4Cocoa/log4cocoa.properties /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app36"8F2A6A44-9A5C-4E9B-B0A5-7E478008658C-
+
+CCpResource HelloWorld/../../include/lumberjack/Extensions/README.txt DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/README.txt
+s360486691.585657
+e360486691.611069
+r1
+xCpResource
+xHelloWorld/../../include/lumberjack/Extensions/README.txt
+xDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/README.txt
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/README.txt6f119823977cb541^c3819c23977cb541^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/README.txt000000000080d041^854"CpResource HelloWorld/../../include/lumberjack/Extensions/README.txt DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/README.txt    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/../../include/lumberjack/Extensions/README.txt /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app36"B988FDCD-B2C7-438A-AD2F-76A9166CD359-
+
+CGenerateDSYMFile /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+s360491326.365826
+e360491326.484713
+r1
+xGenerateDSYMFile
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Generating /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM83c15d3ea97cb541^bceb7c3ea97cb541^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/0000000000000000^810"GenerateDSYMFile DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/HelloWorld    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/HelloWorld -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM36"C76D0173-B77A-4F9E-8111-2219FD7485BB-
+
+CLd /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/HelloWorld normal i386
+s360491326.130893
+e360491326.345528
+r1
+xLd
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Link /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/HelloWorld749a213ea97cb541^b88f583ea97cb541^---0#0#0#--1581"Ld DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/HelloWorld normal i386    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -L/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld -L/Users/guanjianjun/code/powercode/ios/HelloWorld -L/Users/guanjianjun/code/powercode/ios/HelloWorld/../libs -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -filelist /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -lLog4Cocoa -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/HelloWorld36"88E7C2C8-9C8F-443C-A8F6-0314954339F7-
+
+CProcessInfoPlistFile /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/Info.plist HelloWorld/HelloWorld-Info.plist
+s360216929.540223
+e360216929.643871
+r1
+xProcessInfoPlistFile
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/Info.plist
+xHelloWorld/HelloWorld-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process HelloWorld/HelloWorld-Info.plistc8958a617978b541^aef2a4617978b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorld-Info.plist0000000000000000^797"ProcessInfoPlistFile DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/Info.plist HelloWorld/HelloWorld-Info.plist    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloWorld/HelloWorld-Info.plist -genpkginfo /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app/Info.plist36"137ABCAD-A0F0-4BB8-8F95-53DDD90A508F-
+
+CProcessPCH /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-bbixobremtsigudkpoebfbmjvmpj/HelloWorld-Prefix.pch.pth HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360216929.674244
+e360216938.063482
+r1
+xProcessPCH
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-bbixobremtsigudkpoebfbmjvmpj/HelloWorld-Prefix.pch.pth
+xHelloWorld/HelloWorld-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile HelloWorld/HelloWorld-Prefix.pch71caac617978b541^f73f106a7978b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorld-Prefix.pch0000000000000000^3967"ProcessPCH DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-bbixobremtsigudkpoebfbmjvmpj/HelloWorld-Prefix.pch.pth HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -iquote/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/include -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-bbixobremtsigudkpoebfbmjvmpj/HelloWorld-Prefix.pch.dia -c /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorld-Prefix.pch -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-bbixobremtsigudkpoebfbmjvmpj/HelloWorld-Prefix.pch.pth -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-bbixobremtsigudkpoebfbmjvmpj/HelloWorld-Prefix.pch.d36"CAE5218D-9A2A-4566-AFAA-8E91277B4527-
+
+CProcessPCH /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch.pth HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360486537.789468
+e360486548.039485
+r1
+xProcessPCH
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch.pth
+xHelloWorld/HelloWorld-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile HelloWorld/HelloWorld-Prefix.pch6c5acd89967cb541^f7220a94967cb541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorld-Prefix.pch0000000000000000^4810"ProcessPCH DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch.pth HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -iquoteDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/include -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources -IDerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app.dSYM/Contents/Resources/DWARF -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch.dia -c /Users/guanjianjun/code/powercode/ios/HelloWorld/HelloWorld/HelloWorld-Prefix.pch -o /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch.pth -MMD -MT dependencies -MF /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Intermediates/PrecompiledHeaders/HelloWorld-Prefix-fubooaijqyrqpbasmzipdylwaiir/HelloWorld-Prefix.pch.d36"F58E34FF-7B83-4F36-B710-05BFB5016495-
+
+CProcessPCH /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Index/PrecompiledHeaders/HelloWorld-Prefix-divvkvbscyeaphgcenxkchoaosdx_ast/HelloWorld-Prefix.pch.pth HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Index/PrecompiledHeaders/HelloWorld-Prefix-gefehgmshixlxfdltbdozgmhlwov_ast/HelloWorld-Prefix.pch.pth HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app
+s360491326.525322
+e360491326.566742
+r1
+xTouch
+x/Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Touch /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app0f9d863ea97cb541^971a913ea97cb541^---0#0#0#--478"Touch DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app    cd /Users/guanjianjun/code/powercode/ios/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/guanjianjun/code/powercode/ios/HelloWorld/DerivedData/HelloWorld/Build/Products/Debug-iphonesimulator/HelloWorld.app36"67D9910D-DFFD-4C3A-AB36-829297385668-
+
