@@ -7,12 +7,20 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "ZXingWidgetController.h"
+#import "QRWidgetViewController.h"
+#import "QRImageDecoder.h"
 
 
-@interface ZCodeViewController : UIViewController<ZXingDelegate>
+@interface ZCodeViewController : UIViewController<ZXingDelegate, 
+                                                  UINavigationControllerDelegate,
+                                                  UIImagePickerControllerDelegate,
+                                                  QRDecodeDelegate>
 - (IBAction)onScan:(id)sender;
 @property (strong, nonatomic) IBOutlet UITextView *resultsView;
-
 @property (nonatomic, copy) NSString *resultsToDisplay;
+@property (nonatomic, nonatomic) QRImageDecoder *qrImageDecoder;
+
+- (IBAction)onScan:(id)sender;
+- (IBAction)onSelectQR:(id)sender;
+
 @end

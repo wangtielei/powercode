@@ -10,15 +10,6 @@
 
 #import "AppDelegate.h"
 
-//引入lumberjack头文件
-#import "DDLog.h"
-#import "DDTTYLogger.h"
-#import "DDASLLogger.h"
-#import "DDFileLogger.h"
-#import "CustomLogFormatter.h"
-#import "ContextFilterLogFormatter.h"
-#import "DispatchQueueLogFormatter.h"
-
 // Log levels: off, error, warn, info, verbose
 #ifdef DEBUG
 int ddLogLevel = LOG_LEVEL_VERBOSE;

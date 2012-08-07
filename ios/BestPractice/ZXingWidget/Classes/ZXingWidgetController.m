@@ -23,7 +23,6 @@
 #import "TwoDDecoderResult.h"
 #include <sys/types.h>
 #include <sys/sysctl.h>
-
 #import <AVFoundation/AVFoundation.h>
 
 #define CAMERA_SCALAR 1.12412 // scalar = (480 / (2048 / 480))
@@ -84,7 +83,7 @@
     
     [theOverLayView release];
   }
-  
+    
   return self;
 }
 
@@ -327,25 +326,39 @@
 {
     _capturedData = [text copy];
     
-    //检查看是否是合理的url，如果不是则显示到Display info
-    if ([delegate previewCapturedResult:self capturedData:text])
-    {        
-        //先通过alertview展示给用户看一下
-        //baseAlert = [[[UIAlertView alloc] initWithTitle:@"" message:text delegate:nil cancelButtonTitle:nil otherButtonTitles: nil] autorelease];
-        //baseAlert.tag = AlertView_Valid_Tag;
-        
-        [self.navigationController popViewControllerAnimated:NO];
-        [self cancelled];
-        [delegate zxingController:self didScanResult:_capturedData];
-        return;
+    if ([delegate respondsToSelector:@selector(previewCapturedResult:capturedData:)])
+    {
+        //检查看是否是合理的url，如果不是则显示到Display info
+        if ([delegate previewCapturedResult:self capturedData:text])
+        {        
+            //先通过alertview展示给用户看一下
+            //baseAlert = [[[UIAlertView alloc] initWithTitle:@"" message:text delegate:nil cancelButtonTitle:nil otherButtonTitles: nil] autorelease];
+            //baseAlert.tag = AlertView_Valid_Tag;
+            
+            [self.navigationController popViewControllerAnimated:NO];
+            [self cancelled];
+            [delegate zxingController:self didScanResult:_capturedData];
+            return;
+        }
+        else 
+        {
+            baseAlert = [[[UIAlertView alloc] initWithTitle:@"" message:@"请扫描App Store或ipa链接的二维码" delegate:self cancelButtonTitle:nil otherButtonTitles:@"确定", nil] autorelease];
+            baseAlert.tag = AlertView_Invalid_Tag;
+            [baseAlert show];
+        }        
     }
     else 
     {
-        baseAlert = [[[UIAlertView alloc] initWithTitle:@"" message:@"请扫描App Store或ipa链接的二维码" delegate:self cancelButtonTitle:nil otherButtonTitles:@"确定", nil] autorelease];
-        baseAlert.tag = AlertView_Invalid_Tag;
+        [self.navigationController popViewControllerAnimated:NO];
+        [self cancelled];
+        if ([delegate respondsToSelector:@selector(zxingController:didScanResult:)])
+        {
+            [delegate zxingController:self didScanResult:_capturedData];
+        }
     }
     
-    [baseAlert show];
+    
+    
     
     /*
 	// Create and add the activity indicator

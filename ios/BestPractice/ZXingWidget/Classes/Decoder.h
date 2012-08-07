@@ -33,6 +33,9 @@
   size_t subsetHeight;
   size_t subsetBytesPerRow;
   id<DecoderDelegate> delegate;
+    
+    //解析成功的结果暂存在这里
+    NSString *resultString;
 }
 
 @property(nonatomic, retain) UIImage *image;
@@ -46,7 +49,9 @@
 @property(nonatomic, assign) id<DecoderDelegate> delegate;
 
 - (BOOL) decodeImage:(UIImage *)image;
+- (NSString*) syncDecodeImage:(UIImage *)srcImage;
 - (BOOL) decodeImage:(UIImage *)image cropRect:(CGRect)cropRect;
+- (NSString*) syncDecodeImage:(UIImage *)srcImage cropRect:(CGRect)rc;
 - (void) resultPointCallback:(CGPoint)point;
 
 @end

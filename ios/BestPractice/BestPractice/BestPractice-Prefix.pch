@@ -12,3 +12,27 @@
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
 #endif
+
+//引入lumberjack头文件
+#import "DDLog.h"
+#import "DDTTYLogger.h"
+#import "DDASLLogger.h"
+#import "DDFileLogger.h"
+#import "CustomLogFormatter.h"
+#import "ContextFilterLogFormatter.h"
+#import "DispatchQueueLogFormatter.h"
+
+//定义外包变量
+extern int ddLogLevel;
+
+// Use these macros to mark method calling
+#define DDLogStartMethodInfo()            DDLogInfo(@"%d:start", (self))
+#define DDLogEndMethodInfo()              DDLogInfo(@"%d:end", (self))
+#define DDLogStartMethodVerbose()         DDLogVerbose(@"%d:start", (self))
+#define DDLogEndMethodVerbose()           DDLogVerbose(@"%d:end", (self))
+#define DDLogStartMethodDebug()           DDLogVerbose(@"%d:start", (self))
+#define DDLogEndMethodDebug()             DDLogVerbose(@"%d:end", (self))
+
+#define AssertMainThread()                NSAssert([NSThread isMainThread], @"this method should be called from the main thread");
+#define CAssertMainThread()               NSCAssert([NSThread isMainThread], @"this method should be called from the main thread");
+

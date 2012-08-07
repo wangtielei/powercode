@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-#include <UIKit/UIKit.h>
-#include <AudioToolbox/AudioToolbox.h>
+#import <UIKit/UIKit.h>
+#import <AudioToolbox/AudioToolbox.h>
 #import <AVFoundation/AVFoundation.h>
-#include "Decoder.h"
-#include "parsedResults/ParsedResult.h"
-#include "OverlayView.h"
+#import "Decoder.h"
+#import "parsedResults/ParsedResult.h"
+#import "OverlayView.h"
 
 @protocol ZXingDelegate;
 
@@ -71,7 +71,7 @@
 
 @end
 
-@protocol ZXingDelegate
+@protocol ZXingDelegate<NSObject>
 - (void)zxingController:(ZXingWidgetController*)controller didScanResult:(NSString *)result;
 - (void)zxingControllerDidCancel:(ZXingWidgetController*)controller;
 - (BOOL)previewCapturedResult:(ZXingWidgetController*)controller capturedData:(NSString *)result;

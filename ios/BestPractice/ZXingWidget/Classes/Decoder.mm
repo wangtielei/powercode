@@ -183,7 +183,14 @@ public:
       for (FormatReader *reader in formatReaders) {
         NSAutoreleasePool *secondarypool = [[NSAutoreleasePool alloc] init];
         NSMutableArray *points = nil;
-        NSString *resultString = nil;
+        //NSString *resultString = nil;
+          
+          if (resultString)
+          {
+              [resultString release];              
+          }
+          resultString = nil;
+          
         try {
   #ifdef DEBUG
           NSLog(@"decoding gray image");
@@ -223,6 +230,7 @@ public:
           NSLog(@"Caught unknown exception!");
         }
         [resultString release];
+        resultString = nil;
         [points release];
         [secondarypool release];
       }
@@ -248,13 +256,16 @@ public:
         // decoderResult = nil;
         
 
-    if (decoderResult) {
+    if (decoderResult) 
+    {
       [self performSelectorOnMainThread:@selector(didDecodeImage:)
                    withObject:[decoderResult copy]
                 waitUntilDone:NO];
       [decoderResult release];
       returnCode = YES;
-    } else {
+    } 
+    else 
+    {
       [self performSelectorOnMainThread:@selector(failedToDecodeImage:)
                    withObject:NSLocalizedString(@"Decoder BarcodeDetectionFailure", @"No barcode detected.")
                 waitUntilDone:NO];
@@ -270,11 +281,33 @@ public:
   return returnCode;
 }
 
-- (BOOL) decodeImage:(UIImage *)i {
+- (NSString*) syncDecodeImage:(UIImage *)srcImage
+{
+    return [self syncDecodeImage:srcImage cropRect:CGRectMake(0.0f, 0.0f, srcImage.size.width, srcImage.size.height)];
+}
+
+- (NSString*) syncDecodeImage:(UIImage *)srcImage cropRect:(CGRect)rc
+{
+    self.image = srcImage;
+    self.cropRect = rc;
+    [self prepareSubset];
+    if ([self decode])
+    {
+        return self->resultString;
+    }
+    else 
+    {
+        return nil;
+    }
+}
+
+- (BOOL) decodeImage:(UIImage *)i 
+{
   return [self decodeImage:i cropRect:CGRectMake(0.0f, 0.0f, i.size.width, i.size.height)];
 }
 
-- (BOOL) decodeImage:(UIImage *)i cropRect:(CGRect)cr {
+- (BOOL) decodeImage:(UIImage *)i cropRect:(CGRect)cr 
+{
   self.image = i;
   self.cropRect = cr;
   [self prepareSubset];
@@ -283,11 +316,12 @@ public:
 }
 
 - (void) dealloc {
-  delegate = nil;
-  [image release];
-  [subsetImage release];
-  free(subsetData);
-  [readers release];
+    delegate = nil;
+    [image release];
+    [subsetImage release];
+    free(subsetData);
+    [readers release];
+    [resultString release];
   [super dealloc];
 }
 

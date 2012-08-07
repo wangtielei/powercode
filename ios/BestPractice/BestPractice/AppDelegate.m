@@ -7,9 +7,6 @@
 //
 
 #import "AppDelegate.h"
-//引入lumberjack头文件
-#import "DDLog.h"
-extern int ddLogLevel;
 
 @implementation AppDelegate
 

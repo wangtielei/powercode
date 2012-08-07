@@ -53,8 +53,6 @@
 		1F027FB611A7BEAF006B06DE /* OverlayView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F027FAA11A7BEAF006B06DE /* OverlayView.m */; };
 		1F027FBB11A7BEBF006B06DE /* TwoDDecoderResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 1F027FB711A7BEBF006B06DE /* TwoDDecoderResult.h */; };
 		1F027FBC11A7BEBF006B06DE /* TwoDDecoderResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F027FB811A7BEBF006B06DE /* TwoDDecoderResult.m */; };
-		1F027FBD11A7BEBF006B06DE /* ZXingWidgetController.h in Headers */ = {isa = PBXBuildFile; fileRef = 1F027FB911A7BEBF006B06DE /* ZXingWidgetController.h */; };
-		1F027FBE11A7BEBF006B06DE /* ZXingWidgetController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F027FBA11A7BEBF006B06DE /* ZXingWidgetController.m */; };
 		1F027FCD11A7BED6006B06DE /* AddContactAction.h in Headers */ = {isa = PBXBuildFile; fileRef = 1F027FBF11A7BED6006B06DE /* AddContactAction.h */; };
 		1F027FCE11A7BED6006B06DE /* AddContactAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F027FC011A7BED6006B06DE /* AddContactAction.m */; };
 		1F027FCF11A7BED6006B06DE /* CallAction.h in Headers */ = {isa = PBXBuildFile; fileRef = 1F027FC111A7BED6006B06DE /* CallAction.h */; };
@@ -140,6 +138,22 @@
 		3B81AACE120F08170022E5D4 /* HybridBinarizer.h in Headers */ = {isa = PBXBuildFile; fileRef = 3B81AACC120F08170022E5D4 /* HybridBinarizer.h */; };
 		3B81AAF8120F0A7E0022E5D4 /* GreyscaleRotatedLuminanceSource.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3B81AAF6120F0A7E0022E5D4 /* GreyscaleRotatedLuminanceSource.cpp */; };
 		3B81AAF9120F0A7E0022E5D4 /* GreyscaleRotatedLuminanceSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 3B81AAF7120F0A7E0022E5D4 /* GreyscaleRotatedLuminanceSource.h */; };
+		555BA9BC15D0CE1600C46D9B /* Barcode.h in Headers */ = {isa = PBXBuildFile; fileRef = 555BA9B215D0CE1600C46D9B /* Barcode.h */; };
+		555BA9BD15D0CE1600C46D9B /* Barcode.mm in Sources */ = {isa = PBXBuildFile; fileRef = 555BA9B315D0CE1600C46D9B /* Barcode.mm */; };
+		555BA9BE15D0CE1600C46D9B /* FileManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 555BA9B415D0CE1600C46D9B /* FileManager.h */; };
+		555BA9BF15D0CE1600C46D9B /* FileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 555BA9B515D0CE1600C46D9B /* FileManager.m */; };
+		555BA9C015D0CE1600C46D9B /* qr_draw.h in Headers */ = {isa = PBXBuildFile; fileRef = 555BA9B615D0CE1600C46D9B /* qr_draw.h */; };
+		555BA9C115D0CE1600C46D9B /* qr_draw_png.h in Headers */ = {isa = PBXBuildFile; fileRef = 555BA9B715D0CE1600C46D9B /* qr_draw_png.h */; };
+		555BA9C215D0CE1600C46D9B /* qr_draw_png.mm in Sources */ = {isa = PBXBuildFile; fileRef = 555BA9B815D0CE1600C46D9B /* qr_draw_png.mm */; };
+		555BA9C315D0CE1600C46D9B /* QR_Encode.h in Headers */ = {isa = PBXBuildFile; fileRef = 555BA9B915D0CE1600C46D9B /* QR_Encode.h */; };
+		555BA9C415D0CE1600C46D9B /* QR_Encode.mm in Sources */ = {isa = PBXBuildFile; fileRef = 555BA9BA15D0CE1600C46D9B /* QR_Encode.mm */; };
+		555BA9C515D0CE1600C46D9B /* win2ansi.h in Headers */ = {isa = PBXBuildFile; fileRef = 555BA9BB15D0CE1600C46D9B /* win2ansi.h */; };
+		555BA9C815D101A300C46D9B /* QRImageDecoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 555BA9C615D101A300C46D9B /* QRImageDecoder.h */; };
+		555BA9C915D101A300C46D9B /* QRImageDecoder.mm in Sources */ = {isa = PBXBuildFile; fileRef = 555BA9C715D101A300C46D9B /* QRImageDecoder.mm */; };
+		555BA9D015D10B5300C46D9B /* ZXingWidgetController.h in Headers */ = {isa = PBXBuildFile; fileRef = 555BA9CE15D10B5300C46D9B /* ZXingWidgetController.h */; };
+		555BA9D315D10DCC00C46D9B /* ZXingWidgetController.m in Sources */ = {isa = PBXBuildFile; fileRef = 555BA9D215D10DCC00C46D9B /* ZXingWidgetController.m */; };
+		555BA9D615D10E1B00C46D9B /* QRWidgetViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 555BA9D415D10E1A00C46D9B /* QRWidgetViewController.h */; };
+		555BA9D715D10E1B00C46D9B /* QRWidgetViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 555BA9D515D10E1A00C46D9B /* QRWidgetViewController.mm */; };
 		5598CDC315CF8D2F00BB21F1 /* png.c in Sources */ = {isa = PBXBuildFile; fileRef = 5598CDAC15CF8D2F00BB21F1 /* png.c */; };
 		5598CDC415CF8D2F00BB21F1 /* png.h in Headers */ = {isa = PBXBuildFile; fileRef = 5598CDAD15CF8D2F00BB21F1 /* png.h */; };
 		5598CDC515CF8D2F00BB21F1 /* pngconf.h in Headers */ = {isa = PBXBuildFile; fileRef = 5598CDAE15CF8D2F00BB21F1 /* pngconf.h */; };
@@ -163,16 +177,6 @@
 		5598CDD715CF8D2F00BB21F1 /* pngwtran.c in Sources */ = {isa = PBXBuildFile; fileRef = 5598CDC015CF8D2F00BB21F1 /* pngwtran.c */; };
 		5598CDD815CF8D2F00BB21F1 /* pngwutil.c in Sources */ = {isa = PBXBuildFile; fileRef = 5598CDC115CF8D2F00BB21F1 /* pngwutil.c */; };
 		5598CDD915CF8D2F00BB21F1 /* zlib.h in Headers */ = {isa = PBXBuildFile; fileRef = 5598CDC215CF8D2F00BB21F1 /* zlib.h */; };
-		5598CDE515CF8DB000BB21F1 /* Barcode.h in Headers */ = {isa = PBXBuildFile; fileRef = 5598CDDB15CF8DB000BB21F1 /* Barcode.h */; };
-		5598CDE615CF8DB000BB21F1 /* Barcode.mm in Sources */ = {isa = PBXBuildFile; fileRef = 5598CDDC15CF8DB000BB21F1 /* Barcode.mm */; };
-		5598CDE715CF8DB000BB21F1 /* FileManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 5598CDDD15CF8DB000BB21F1 /* FileManager.h */; };
-		5598CDE815CF8DB000BB21F1 /* FileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5598CDDE15CF8DB000BB21F1 /* FileManager.m */; };
-		5598CDE915CF8DB000BB21F1 /* qr_draw.h in Headers */ = {isa = PBXBuildFile; fileRef = 5598CDDF15CF8DB000BB21F1 /* qr_draw.h */; };
-		5598CDEA15CF8DB000BB21F1 /* qr_draw_png.h in Headers */ = {isa = PBXBuildFile; fileRef = 5598CDE015CF8DB000BB21F1 /* qr_draw_png.h */; };
-		5598CDEB15CF8DB000BB21F1 /* qr_draw_png.mm in Sources */ = {isa = PBXBuildFile; fileRef = 5598CDE115CF8DB000BB21F1 /* qr_draw_png.mm */; };
-		5598CDEC15CF8DB000BB21F1 /* QR_Encode.h in Headers */ = {isa = PBXBuildFile; fileRef = 5598CDE215CF8DB000BB21F1 /* QR_Encode.h */; };
-		5598CDED15CF8DB000BB21F1 /* QR_Encode.mm in Sources */ = {isa = PBXBuildFile; fileRef = 5598CDE315CF8DB000BB21F1 /* QR_Encode.mm */; };
-		5598CDEE15CF8DB000BB21F1 /* win2ansi.h in Headers */ = {isa = PBXBuildFile; fileRef = 5598CDE415CF8DB000BB21F1 /* win2ansi.h */; };
 		5598CDF015CF95A200BB21F1 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5598CDEF15CF95A200BB21F1 /* libz.dylib */; };
 		AA747D9F0F9514B9006C5449 /* ZXingWidget_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = AA747D9E0F9514B9006C5449 /* ZXingWidget_Prefix.pch */; };
 		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
@@ -369,8 +373,6 @@
 		1F027FAA11A7BEAF006B06DE /* OverlayView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = OverlayView.m; path = Classes/OverlayView.m; sourceTree = "<group>"; };
 		1F027FB711A7BEBF006B06DE /* TwoDDecoderResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TwoDDecoderResult.h; path = Classes/TwoDDecoderResult.h; sourceTree = "<group>"; };
 		1F027FB811A7BEBF006B06DE /* TwoDDecoderResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TwoDDecoderResult.m; path = Classes/TwoDDecoderResult.m; sourceTree = "<group>"; };
-		1F027FB911A7BEBF006B06DE /* ZXingWidgetController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ZXingWidgetController.h; path = Classes/ZXingWidgetController.h; sourceTree = "<group>"; };
-		1F027FBA11A7BEBF006B06DE /* ZXingWidgetController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ZXingWidgetController.m; path = Classes/ZXingWidgetController.m; sourceTree = "<group>"; };
 		1F027FBF11A7BED6006B06DE /* AddContactAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AddContactAction.h; path = Classes/actions/AddContactAction.h; sourceTree = "<group>"; };
 		1F027FC011A7BED6006B06DE /* AddContactAction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AddContactAction.m; path = Classes/actions/AddContactAction.m; sourceTree = "<group>"; };
 		1F027FC111A7BED6006B06DE /* CallAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CallAction.h; path = Classes/actions/CallAction.h; sourceTree = "<group>"; };
@@ -456,6 +458,22 @@
 		3B81AACC120F08170022E5D4 /* HybridBinarizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HybridBinarizer.h; sourceTree = "<group>"; };
 		3B81AAF6120F0A7E0022E5D4 /* GreyscaleRotatedLuminanceSource.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GreyscaleRotatedLuminanceSource.cpp; sourceTree = "<group>"; };
 		3B81AAF7120F0A7E0022E5D4 /* GreyscaleRotatedLuminanceSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GreyscaleRotatedLuminanceSource.h; sourceTree = "<group>"; };
+		555BA9B215D0CE1600C46D9B /* Barcode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Barcode.h; sourceTree = "<group>"; };
+		555BA9B315D0CE1600C46D9B /* Barcode.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = Barcode.mm; sourceTree = "<group>"; };
+		555BA9B415D0CE1600C46D9B /* FileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileManager.h; sourceTree = "<group>"; };
+		555BA9B515D0CE1600C46D9B /* FileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FileManager.m; sourceTree = "<group>"; };
+		555BA9B615D0CE1600C46D9B /* qr_draw.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = qr_draw.h; sourceTree = "<group>"; };
+		555BA9B715D0CE1600C46D9B /* qr_draw_png.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = qr_draw_png.h; sourceTree = "<group>"; };
+		555BA9B815D0CE1600C46D9B /* qr_draw_png.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = qr_draw_png.mm; sourceTree = "<group>"; };
+		555BA9B915D0CE1600C46D9B /* QR_Encode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QR_Encode.h; sourceTree = "<group>"; };
+		555BA9BA15D0CE1600C46D9B /* QR_Encode.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = QR_Encode.mm; sourceTree = "<group>"; };
+		555BA9BB15D0CE1600C46D9B /* win2ansi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = win2ansi.h; sourceTree = "<group>"; };
+		555BA9C615D101A300C46D9B /* QRImageDecoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = QRImageDecoder.h; path = Classes/QRImageDecoder.h; sourceTree = "<group>"; };
+		555BA9C715D101A300C46D9B /* QRImageDecoder.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = QRImageDecoder.mm; path = Classes/QRImageDecoder.mm; sourceTree = "<group>"; };
+		555BA9CE15D10B5300C46D9B /* ZXingWidgetController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ZXingWidgetController.h; path = Classes/ZXingWidgetController.h; sourceTree = "<group>"; };
+		555BA9D215D10DCC00C46D9B /* ZXingWidgetController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ZXingWidgetController.m; path = Classes/ZXingWidgetController.m; sourceTree = "<group>"; };
+		555BA9D415D10E1A00C46D9B /* QRWidgetViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = QRWidgetViewController.h; path = Classes/QRWidgetViewController.h; sourceTree = "<group>"; };
+		555BA9D515D10E1A00C46D9B /* QRWidgetViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = QRWidgetViewController.mm; path = Classes/QRWidgetViewController.mm; sourceTree = "<group>"; };
 		556FD67615BD75F80071166E /* back_button_pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back_button_pressed.png; path = ../AppInstallerRed/AppInstaller/Images/back_button_pressed.png; sourceTree = "<group>"; };
 		556FD67715BD75F80071166E /* back_button_pressed@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "back_button_pressed@2x.png"; path = "../AppInstallerRed/AppInstaller/Images/back_button_pressed@2x.png"; sourceTree = "<group>"; };
 		556FD67815BD75F80071166E /* back_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back_button.png; path = ../AppInstallerRed/AppInstaller/Images/back_button.png; sourceTree = "<group>"; };
@@ -487,16 +505,6 @@
 		5598CDC015CF8D2F00BB21F1 /* pngwtran.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pngwtran.c; sourceTree = "<group>"; };
 		5598CDC115CF8D2F00BB21F1 /* pngwutil.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pngwutil.c; sourceTree = "<group>"; };
 		5598CDC215CF8D2F00BB21F1 /* zlib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zlib.h; sourceTree = "<group>"; };
-		5598CDDB15CF8DB000BB21F1 /* Barcode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Barcode.h; sourceTree = "<group>"; };
-		5598CDDC15CF8DB000BB21F1 /* Barcode.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = Barcode.mm; sourceTree = "<group>"; };
-		5598CDDD15CF8DB000BB21F1 /* FileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileManager.h; sourceTree = "<group>"; };
-		5598CDDE15CF8DB000BB21F1 /* FileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FileManager.m; sourceTree = "<group>"; };
-		5598CDDF15CF8DB000BB21F1 /* qr_draw.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = qr_draw.h; sourceTree = "<group>"; };
-		5598CDE015CF8DB000BB21F1 /* qr_draw_png.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = qr_draw_png.h; sourceTree = "<group>"; };
-		5598CDE115CF8DB000BB21F1 /* qr_draw_png.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = qr_draw_png.mm; sourceTree = "<group>"; };
-		5598CDE215CF8DB000BB21F1 /* QR_Encode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QR_Encode.h; sourceTree = "<group>"; };
-		5598CDE315CF8DB000BB21F1 /* QR_Encode.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = QR_Encode.mm; sourceTree = "<group>"; };
-		5598CDE415CF8DB000BB21F1 /* win2ansi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = win2ansi.h; sourceTree = "<group>"; };
 		5598CDEF15CF95A200BB21F1 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		AA747D9E0F9514B9006C5449 /* ZXingWidget_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXingWidget_Prefix.pch; sourceTree = SOURCE_ROOT; };
 		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -678,7 +686,7 @@
 		0867D691FE84028FC02AAC07 /* ZXingWidget */ = {
 			isa = PBXGroup;
 			children = (
-				5598CDDA15CF8DB000BB21F1 /* DecodeQR */,
+				555BA9B115D0CE1600C46D9B /* EncodeQR */,
 				5598CDAB15CF8D2F00BB21F1 /* libpng */,
 				1D6038A113DF6FBF006F4B51 /* Tests */,
 				E53458B311987396000CB77F /* CoreSrc */,
@@ -710,6 +718,10 @@
 		08FB77AEFE84172EC02AAC07 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				555BA9C615D101A300C46D9B /* QRImageDecoder.h */,
+				555BA9C715D101A300C46D9B /* QRImageDecoder.mm */,
+				555BA9D215D10DCC00C46D9B /* ZXingWidgetController.m */,
+				555BA9CE15D10B5300C46D9B /* ZXingWidgetController.h */,
 				1D603E6213E20AF1006F4B51 /* ArrayAndStringCategories.h */,
 				1D603E6313E20AF1006F4B51 /* ArrayAndStringCategories.m */,
 				1DFA090A13CE1A3900599044 /* CBarcodeFormat.h */,
@@ -724,8 +736,6 @@
 				1F3DB0C111C60DB4009C581B /* QRCodeReader.mm */,
 				1F027FB711A7BEBF006B06DE /* TwoDDecoderResult.h */,
 				1F027FB811A7BEBF006B06DE /* TwoDDecoderResult.m */,
-				1F027FB911A7BEBF006B06DE /* ZXingWidgetController.h */,
-				1F027FBA11A7BEBF006B06DE /* ZXingWidgetController.m */,
 				1F027F9F11A7BEAF006B06DE /* Decoder.h */,
 				1F027FA011A7BEAF006B06DE /* Decoder.mm */,
 				1F027FA111A7BEAF006B06DE /* DecoderDelegate.h */,
@@ -737,6 +747,8 @@
 				E5345A00119876A5000CB77F /* Actions */,
 				E53459EF119876A5000CB77F /* ParsedResults */,
 				E53459D4119876A5000CB77F /* ResultParsers */,
+				555BA9D415D10E1A00C46D9B /* QRWidgetViewController.h */,
+				555BA9D515D10E1A00C46D9B /* QRWidgetViewController.mm */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -763,6 +775,23 @@
 				AA747D9E0F9514B9006C5449 /* ZXingWidget_Prefix.pch */,
 			);
 			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		555BA9B115D0CE1600C46D9B /* EncodeQR */ = {
+			isa = PBXGroup;
+			children = (
+				555BA9B215D0CE1600C46D9B /* Barcode.h */,
+				555BA9B315D0CE1600C46D9B /* Barcode.mm */,
+				555BA9B415D0CE1600C46D9B /* FileManager.h */,
+				555BA9B515D0CE1600C46D9B /* FileManager.m */,
+				555BA9B615D0CE1600C46D9B /* qr_draw.h */,
+				555BA9B715D0CE1600C46D9B /* qr_draw_png.h */,
+				555BA9B815D0CE1600C46D9B /* qr_draw_png.mm */,
+				555BA9B915D0CE1600C46D9B /* QR_Encode.h */,
+				555BA9BA15D0CE1600C46D9B /* QR_Encode.mm */,
+				555BA9BB15D0CE1600C46D9B /* win2ansi.h */,
+			);
+			path = EncodeQR;
 			sourceTree = "<group>";
 		};
 		5598CDAB15CF8D2F00BB21F1 /* libpng */ = {
@@ -793,23 +822,6 @@
 				5598CDC215CF8D2F00BB21F1 /* zlib.h */,
 			);
 			path = libpng;
-			sourceTree = "<group>";
-		};
-		5598CDDA15CF8DB000BB21F1 /* DecodeQR */ = {
-			isa = PBXGroup;
-			children = (
-				5598CDDB15CF8DB000BB21F1 /* Barcode.h */,
-				5598CDDC15CF8DB000BB21F1 /* Barcode.mm */,
-				5598CDDD15CF8DB000BB21F1 /* FileManager.h */,
-				5598CDDE15CF8DB000BB21F1 /* FileManager.m */,
-				5598CDDF15CF8DB000BB21F1 /* qr_draw.h */,
-				5598CDE015CF8DB000BB21F1 /* qr_draw_png.h */,
-				5598CDE115CF8DB000BB21F1 /* qr_draw_png.mm */,
-				5598CDE215CF8DB000BB21F1 /* QR_Encode.h */,
-				5598CDE315CF8DB000BB21F1 /* QR_Encode.mm */,
-				5598CDE415CF8DB000BB21F1 /* win2ansi.h */,
-			);
-			path = DecodeQR;
 			sourceTree = "<group>";
 		};
 		E53458B311987396000CB77F /* CoreSrc */ = {
@@ -1241,7 +1253,6 @@
 				1F027FAE11A7BEAF006B06DE /* FormatReader.h in Headers */,
 				1F027FB511A7BEAF006B06DE /* OverlayView.h in Headers */,
 				1F027FBB11A7BEBF006B06DE /* TwoDDecoderResult.h in Headers */,
-				1F027FBD11A7BEBF006B06DE /* ZXingWidgetController.h in Headers */,
 				1F027FCD11A7BED6006B06DE /* AddContactAction.h in Headers */,
 				1F027FCF11A7BED6006B06DE /* CallAction.h in Headers */,
 				1F027FD111A7BED6006B06DE /* EmailAction.h in Headers */,
@@ -1302,12 +1313,15 @@
 				5598CDCD15CF8D2F00BB21F1 /* pngpriv.h in Headers */,
 				5598CDD315CF8D2F00BB21F1 /* pngstruct.h in Headers */,
 				5598CDD915CF8D2F00BB21F1 /* zlib.h in Headers */,
-				5598CDE515CF8DB000BB21F1 /* Barcode.h in Headers */,
-				5598CDE715CF8DB000BB21F1 /* FileManager.h in Headers */,
-				5598CDE915CF8DB000BB21F1 /* qr_draw.h in Headers */,
-				5598CDEA15CF8DB000BB21F1 /* qr_draw_png.h in Headers */,
-				5598CDEC15CF8DB000BB21F1 /* QR_Encode.h in Headers */,
-				5598CDEE15CF8DB000BB21F1 /* win2ansi.h in Headers */,
+				555BA9BC15D0CE1600C46D9B /* Barcode.h in Headers */,
+				555BA9BE15D0CE1600C46D9B /* FileManager.h in Headers */,
+				555BA9C015D0CE1600C46D9B /* qr_draw.h in Headers */,
+				555BA9C115D0CE1600C46D9B /* qr_draw_png.h in Headers */,
+				555BA9C315D0CE1600C46D9B /* QR_Encode.h in Headers */,
+				555BA9C515D0CE1600C46D9B /* win2ansi.h in Headers */,
+				555BA9C815D101A300C46D9B /* QRImageDecoder.h in Headers */,
+				555BA9D015D10B5300C46D9B /* ZXingWidgetController.h in Headers */,
+				555BA9D615D10E1B00C46D9B /* QRWidgetViewController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1495,7 +1509,6 @@
 				1F027FB211A7BEAF006B06DE /* MultiFormatReader.mm in Sources */,
 				1F027FB611A7BEAF006B06DE /* OverlayView.m in Sources */,
 				1F027FBC11A7BEBF006B06DE /* TwoDDecoderResult.m in Sources */,
-				1F027FBE11A7BEBF006B06DE /* ZXingWidgetController.m in Sources */,
 				1F027FCE11A7BED6006B06DE /* AddContactAction.m in Sources */,
 				1F027FD011A7BED6006B06DE /* CallAction.m in Sources */,
 				1F027FD211A7BED6006B06DE /* EmailAction.m in Sources */,
@@ -1566,10 +1579,13 @@
 				5598CDD615CF8D2F00BB21F1 /* pngwrite.c in Sources */,
 				5598CDD715CF8D2F00BB21F1 /* pngwtran.c in Sources */,
 				5598CDD815CF8D2F00BB21F1 /* pngwutil.c in Sources */,
-				5598CDE615CF8DB000BB21F1 /* Barcode.mm in Sources */,
-				5598CDE815CF8DB000BB21F1 /* FileManager.m in Sources */,
-				5598CDEB15CF8DB000BB21F1 /* qr_draw_png.mm in Sources */,
-				5598CDED15CF8DB000BB21F1 /* QR_Encode.mm in Sources */,
+				555BA9BD15D0CE1600C46D9B /* Barcode.mm in Sources */,
+				555BA9BF15D0CE1600C46D9B /* FileManager.m in Sources */,
+				555BA9C215D0CE1600C46D9B /* qr_draw_png.mm in Sources */,
+				555BA9C415D0CE1600C46D9B /* QR_Encode.mm in Sources */,
+				555BA9C915D101A300C46D9B /* QRImageDecoder.mm in Sources */,
+				555BA9D315D10DCC00C46D9B /* ZXingWidgetController.m in Sources */,
+				555BA9D715D10E1B00C46D9B /* QRWidgetViewController.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
