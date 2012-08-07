@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		557383E015D0B8230082D427 /* libZXingWidget.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5598CE0815CFC5A100BB21F1 /* libZXingWidget.a */; };
 		55987D2715B3CF40002810B4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55987D2615B3CF40002810B4 /* UIKit.framework */; };
 		55987D2915B3CF40002810B4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55987D2815B3CF40002810B4 /* Foundation.framework */; };
 		55987D2B15B3CF40002810B4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55987D2A15B3CF40002810B4 /* CoreGraphics.framework */; };
@@ -20,7 +21,6 @@
 		55987D4415B3CF41002810B4 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55987D4315B3CF41002810B4 /* SecondViewController.m */; };
 		55987D4615B3CF41002810B4 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 55987D4515B3CF41002810B4 /* second.png */; };
 		55987D4815B3CF41002810B4 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55987D4715B3CF41002810B4 /* second@2x.png */; };
-		55987D5615B3F489002810B4 /* images in Resources */ = {isa = PBXBuildFile; fileRef = 55987D5515B3F489002810B4 /* images */; };
 		55987D6615B4088D002810B4 /* applogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 55987D6515B4088D002810B4 /* applogo.png */; };
 		55987D6815B40897002810B4 /* applogo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55987D6715B40897002810B4 /* applogo@2x.png */; };
 		55987D6F15B40A89002810B4 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 55987D6E15B40A89002810B4 /* Default.png */; };
@@ -36,7 +36,6 @@
 		55987D9A15B42A6E002810B4 /* AddSightingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55987D9715B42A6E002810B4 /* AddSightingViewController.m */; };
 		55987D9B15B42A6E002810B4 /* BirdsDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55987D9915B42A6E002810B4 /* BirdsDetailViewController.m */; };
 		55987D9E15B42A78002810B4 /* BirdsMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55987D9D15B42A78002810B4 /* BirdsMasterViewController.m */; };
-		5598CE0D15CFC5D000BB21F1 /* libZXingWidget.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5598CE0815CFC5A100BB21F1 /* libZXingWidget.a */; };
 		5598CE5215CFCE7B00BB21F1 /* DDAbstractDatabaseLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 5598CE4115CFCE7B00BB21F1 /* DDAbstractDatabaseLogger.m */; };
 		5598CE5315CFCE7B00BB21F1 /* DDASLLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 5598CE4315CFCE7B00BB21F1 /* DDASLLogger.m */; };
 		5598CE5415CFCE7B00BB21F1 /* DDFileLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 5598CE4515CFCE7B00BB21F1 /* DDFileLogger.m */; };
@@ -83,7 +82,7 @@
 
 /* Begin PBXFileReference section */
 		556CE1D615B5353100762FFA /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		556CE1D815B535B600762FFA /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "zh-Hans"; path = "zh-Hans.lproj/MainStoryboard.storyboard"; sourceTree = "<group>"; };
+		557383C315D0AF3F0082D427 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "zh-Hans"; path = "zh-Hans.lproj/MainStoryboard.storyboard"; sourceTree = "<group>"; };
 		55987D2215B3CF40002810B4 /* BestPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BestPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55987D2615B3CF40002810B4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		55987D2815B3CF40002810B4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -103,7 +102,6 @@
 		55987D4315B3CF41002810B4 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		55987D4515B3CF41002810B4 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		55987D4715B3CF41002810B4 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
-		55987D5515B3F489002810B4 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = SOURCE_ROOT; };
 		55987D6515B4088D002810B4 /* applogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = applogo.png; path = ../applogo.png; sourceTree = "<group>"; };
 		55987D6715B40897002810B4 /* applogo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "applogo@2x.png"; path = "../applogo@2x.png"; sourceTree = "<group>"; };
 		55987D6E15B40A89002810B4 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = ../Default.png; sourceTree = "<group>"; };
@@ -142,7 +140,6 @@
 		5598CE4F15CFCE7B00BB21F1 /* DispatchQueueLogFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DispatchQueueLogFormatter.h; sourceTree = "<group>"; };
 		5598CE5015CFCE7B00BB21F1 /* DispatchQueueLogFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DispatchQueueLogFormatter.m; sourceTree = "<group>"; };
 		5598CE5115CFCE7B00BB21F1 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
-		55BC7F9715BA963F006D2B07 /* libZXingWidget.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libZXingWidget.a; sourceTree = "<group>"; };
 		55BC7F9915BA9861006D2B07 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		55BC7F9B15BA9874006D2B07 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		55BC7F9D15BA988A006D2B07 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
@@ -160,7 +157,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5598CE0D15CFC5D000BB21F1 /* libZXingWidget.a in Frameworks */,
+				557383E015D0B8230082D427 /* libZXingWidget.a in Frameworks */,
 				55BC7FA715BA98FA006D2B07 /* AddressBook.framework in Frameworks */,
 				55BC7FA815BA98FA006D2B07 /* AddressBookUI.framework in Frameworks */,
 				55BC7FA415BA98D1006D2B07 /* libiconv.dylib in Frameworks */,
@@ -182,7 +179,6 @@
 			children = (
 				5598CE3F15CFCE7B00BB21F1 /* lumberjack */,
 				5598CDFD15CFC58400BB21F1 /* Dependencies */,
-				55987D5515B3F489002810B4 /* images */,
 				55987D2C15B3CF40002810B4 /* BestPractice */,
 				55987D2515B3CF40002810B4 /* Frameworks */,
 				55987D2315B3CF40002810B4 /* Products */,
@@ -207,7 +203,6 @@
 				55BC7F9D15BA988A006D2B07 /* CoreVideo.framework */,
 				55BC7F9915BA9861006D2B07 /* AVFoundation.framework */,
 				55BC7F9B15BA9874006D2B07 /* AudioToolbox.framework */,
-				55BC7F9715BA963F006D2B07 /* libZXingWidget.a */,
 				55987D2615B3CF40002810B4 /* UIKit.framework */,
 				55987D2815B3CF40002810B4 /* Foundation.framework */,
 				55987D2A15B3CF40002810B4 /* CoreGraphics.framework */,
@@ -407,7 +402,6 @@
 				55987D4115B3CF41002810B4 /* first@2x.png in Resources */,
 				55987D4615B3CF41002810B4 /* second.png in Resources */,
 				55987D4815B3CF41002810B4 /* second@2x.png in Resources */,
-				55987D5615B3F489002810B4 /* images in Resources */,
 				55987D6615B4088D002810B4 /* applogo.png in Resources */,
 				55987D6815B40897002810B4 /* applogo@2x.png in Resources */,
 				55987D6F15B40A89002810B4 /* Default.png in Resources */,
@@ -474,7 +468,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				55987D3915B3CF41002810B4 /* en */,
-				556CE1D815B535B600762FFA /* zh-Hans */,
+				557383C315D0AF3F0082D427 /* zh-Hans */,
 			);
 			name = MainStoryboard.storyboard;
 			sourceTree = "<group>";

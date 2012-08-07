@@ -151,7 +151,7 @@
             </objects>
             <point key="canvasLocation" x="653" y="498"/>
         </scene>
-        <!--Code View Controller - Item-->
+        <!--Code View Controller - QRCode-->
         <scene sceneID="qNf-Hv-IF7">
             <objects>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="DhB-Cm-40l" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -185,7 +185,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item" id="5X3-ON-fA9"/>
+                    <tabBarItem key="tabBarItem" title="QRCode" id="5X3-ON-fA9"/>
                     <connections>
                         <outlet property="resultsView" destination="2EL-h3-E5g" id="vs4-YI-Lr7"/>
                     </connections>
@@ -197,7 +197,7 @@
         <scene sceneID="15">
             <objects>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="14" sceneMemberID="firstResponder"/>
-                <tabBarController id="4" sceneMemberID="viewController">
+                <tabBarController wantsFullScreenLayout="YES" id="4" sceneMemberID="viewController">
                     <nil key="simulatedBottomBarMetrics"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" id="5">
                         <rect key="frame" x="0.0" y="431" width="320" height="49"/>
@@ -205,7 +205,7 @@
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                     </tabBar>
                     <connections>
-                        <segue destination="2" kind="relationship" relationship="viewControllers" id="26"/>
+                        <segue destination="2" kind="relationship" relationship="viewControllers" id="8nE-KF-4b8"/>
                         <segue destination="3" kind="relationship" relationship="viewControllers" id="27"/>
                         <segue destination="7qk-qf-y6S" kind="relationship" relationship="viewControllers" id="cKm-TB-a3N"/>
                         <segue destination="N88-PC-1HX" kind="relationship" relationship="viewControllers" id="NUZ-rJ-5zx"/>
@@ -490,12 +490,12 @@
             </objects>
             <point key="canvasLocation" x="2240" y="787"/>
         </scene>
-        <!--Navigation Controller - Item-->
+        <!--Navigation Controller - Bird-->
         <scene sceneID="WQt-Pw-Mke">
             <objects>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="a6Q-Nd-rjd" sceneMemberID="firstResponder"/>
                 <navigationController id="7qk-qf-y6S" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="o1R-9Z-nQx"/>
+                    <tabBarItem key="tabBarItem" title="Bird" id="o1R-9Z-nQx"/>
                     <navigationItem key="navigationItem" id="EE2-ol-UrT"/>
                     <navigationBar key="navigationBar" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="Jde-vz-Dzd">
                         <autoresizingMask key="autoresizingMask"/>

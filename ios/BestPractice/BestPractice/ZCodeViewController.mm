@@ -45,13 +45,12 @@
 
 - (IBAction)onScan:(id)sender 
 {
-    ZXingWidgetController *widController = [[ZXingWidgetController alloc] initWithDelegate:self showCancel:YES OneDMode:NO];
+    ZXingWidgetController *widController = [[ZXingWidgetController alloc] initWithDelegate:self guideTips:@"" showCancel:NO showTorch:YES showScanAnimation:NO];  
     QRCodeReader* qrcodeReader = [[QRCodeReader alloc] init];
     NSSet *readers = [[NSSet alloc ] initWithObjects:qrcodeReader,nil];
     widController.readers = readers;
     NSBundle *mainBundle = [NSBundle mainBundle];
-    widController.soundToPlay =
-    [NSURL fileURLWithPath:[mainBundle pathForResource:@"beep-beep" ofType:@"aiff"] isDirectory:NO];
+    widController.soundToPlay = [NSURL fileURLWithPath:[mainBundle pathForResource:@"beep-beep" ofType:@"aiff"] isDirectory:NO];
     [self presentModalViewController:widController animated:YES];
 }
 

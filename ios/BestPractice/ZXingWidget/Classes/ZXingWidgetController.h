@@ -63,7 +63,7 @@
 @property (nonatomic, retain) OverlayView *overlayView;
 @property (nonatomic, retain) NSString *capturedData;
 
-- (id)initWithDelegate:(id<ZXingDelegate>)delegate guideTips:(NSString*)tips showCancel:(BOOL)shouldShowCancel showTorch:(BOOL)shouldTorch showScanAnimation:(BOOL)shouldShowScanAnimation;
+- (id)initWithDelegate:(id<ZXingDelegate>)scanDelegate guideTips:(NSString*)tips showCancel:(BOOL)shouldShowCancel showTorch:(BOOL)shouldTorch showScanAnimation:(BOOL)shouldShowScanAnimation;
 
 - (BOOL)fixedFocus;
 - (void)setTorch:(BOOL)status;
