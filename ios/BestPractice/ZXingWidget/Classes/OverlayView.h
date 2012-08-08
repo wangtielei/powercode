@@ -35,16 +35,14 @@
 @property (nonatomic, assign) BOOL oneDMode;
 @property (nonatomic, assign) CGRect cropRect;
 @property (nonatomic, copy) NSString *displayedMessage;
-@property (nonatomic) float curYPos;
-@property (nonatomic) BOOL isMovingDown;
 @property (nonatomic, retain) UIView *scanLine;
-@property (nonatomic, retain) NSTimer *scanTimer;
 
 - (id) initWithFrame:(CGRect)theFrame cancelEnabled:(BOOL)isCancelEnabled torchEnabled:(BOOL)isTorchEnabled oneDMode:(BOOL)isOneDModeEnabled;
 
 - (void)setPoint:(CGPoint)point;
 
-- (void)setScan:(BOOL)begin;
+//begin: true--开始移动; false--结束移动
+- (void)setScan:(id)begin;
 
 
 @end

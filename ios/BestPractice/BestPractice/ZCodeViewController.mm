@@ -39,6 +39,16 @@
     _qrImageDecoder.notifyDelegate = self;
 }
 
+- (void)viewWillDisappear:(BOOL)animated
+{
+    DDLogEndMethodInfo();
+}
+
+- (void)viewWillAppear:(BOOL)animated 
+{
+    DDLogEndMethodInfo();
+}
+
 - (void)viewDidUnload
 {
     [super viewDidUnload];
@@ -62,7 +72,7 @@
 
 - (IBAction)onScan:(id)sender 
 {
-    QRWidgetViewController *widController = [[QRWidgetViewController alloc] initWithDelegate:self guideTips:@"" showCancel:YES showTorch:YES showScanAnimation:NO];  
+    QRWidgetViewController *widController = [[QRWidgetViewController alloc] initWithDelegate:self guideTips:@"" showCancel:YES showTorch:YES showScanAnimation:YES];  
     NSBundle *mainBundle = [NSBundle mainBundle];
     widController.soundToPlay = [NSURL fileURLWithPath:[mainBundle pathForResource:@"beep-beep" ofType:@"aiff"] isDirectory:NO];
     [self presentModalViewController:widController animated:NO];
@@ -123,6 +133,13 @@
     if (result)
     {
         [self setResult:result];
+        
+        /*
+        float angle = 30.0f*(3.14/100);
+        CGAffineTransform transform = CGAffineTransformMakeRotation(angle);
+        resultsView.transform = transform;//绕着中心旋转30度
+        resultsView.transform = CGAffineTransformIdentity;//还原坐标
+         */
     }
     else 
     {

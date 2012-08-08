@@ -17,6 +17,7 @@
 #import "OverlayView.h"
 #import <AVFoundation/AVFoundation.h>
 
+#define CROPWIDTH 5.0f
 static const CGFloat kPadding = 30;
 
 @interface OverlayView()
@@ -36,9 +37,6 @@ static const CGFloat kPadding = 30;
 @synthesize instructionsLabel;
 @synthesize displayedMessage;
 @synthesize scanLine = _scanLine;
-@synthesize curYPos = _curYPos;           //当前扫描线的Y坐标
-@synthesize isMovingDown = _isMovingDown; //当前扫描线移动方向
-@synthesize scanTimer = _scanTimer;       //移动线的定时器
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 - (id) initWithFrame:(CGRect)theFrame cancelEnabled:(BOOL)isCancelEnabled torchEnabled:(BOOL)isTorchEnabled oneDMode:(BOOL)isOneDModeEnabled
@@ -54,11 +52,10 @@ static const CGFloat kPadding = 30;
       
         if (self.oneDMode) 
         {
-            _scanLine = [[UIView alloc]initWithFrame:CGRectMake(cropRect.origin.x, cropRect.origin.y, cropRect.size.width, 1)];
-            [_scanLine setBackgroundColor:[UIColor redColor]];
+            _scanLine = [[UIView alloc]initWithFrame:CGRectMake(cropRect.origin.x+CROPWIDTH, cropRect.origin.y+CROPWIDTH, cropRect.size.width-CROPWIDTH*2, 3)];
+            [_scanLine setBackgroundColor:[UIColor greenColor]];
             _scanLine.hidden = NO;
-            self.curYPos = cropRect.origin.y;
-            self.isMovingDown = TRUE; //一开始是往下移动
+            _scanLine.tag = 110;
             [self addSubview:_scanLine];
         }
       
@@ -124,10 +121,6 @@ static const CGFloat kPadding = 30;
     {
         [self.scanLine release];
     }
-    if (self.scanTimer)
-    {
-        [self.scanTimer release];
-    }
     
 	[super dealloc];
 }
@@ -148,8 +141,8 @@ static const CGFloat kPadding = 30;
 - (void)drawVirtualRect:(CGRect)rect inContext:(CGContextRef)context 
 {
     CGFloat length = 30.0f;
-    //设置线条为2个单位宽
-    CGContextSetLineWidth(context, 5);
+    //设置线条为5个单位宽
+    CGContextSetLineWidth(context, CROPWIDTH);
 	CGContextBeginPath(context);
     //从左上角的竖线开始,顺时针顺序画
 	CGContextMoveToPoint(context, rect.origin.x, rect.origin.y + length);
@@ -216,56 +209,69 @@ static const CGFloat kPadding = 30;
 }
 
 //移动扫描线
-- (void)setScan:(BOOL)begin
-{    
-    if (!oneDMode)
-        return;
-    
-    if (begin)
-    {
-        if (self.scanTimer)
-            return;
-        
-        self.scanTimer = [NSTimer scheduledTimerWithTimeInterval:0.01 target:self selector:@selector(moveScanLine:) userInfo:nil repeats:YES];
-    }
-    else 
-    {
-        if (self.scanTimer)
-        {
-            [self.scanTimer invalidate];
-        }
-    }
-}
-
-- (void) moveScanLine: (NSTimer *) timer
+//begin: true--开始移动; false--结束移动
+- (void)setScan:(id)begin 
 {
-    if (self.isMovingDown)
-    {  
-        if (self.curYPos >= (cropRect.origin.y + cropRect.size.height))
-        {
-            self.curYPos = cropRect.origin.y + cropRect.size.height -1;
-            self.isMovingDown = FALSE;
-        }
-        else 
-        {
-            self.curYPos = self.curYPos + 1;
-        }
+    if (!self.oneDMode)
+    {
+        return;
+    }
+    //self.scanLine.hidden = NO;
+    
+    NSString *flag = (NSString*)begin;
+    if ([flag isEqualToString:@"1"])
+    {
+        CGPoint endPos = self.scanLine.center;
+        endPos.y = cropRect.origin.y + cropRect.size.height - CROPWIDTH;
+        CGContextRef context = UIGraphicsGetCurrentContext();
+        [UIView beginAnimations:@"todown" context:context];
+        [UIView setAnimationCurve:UIViewAnimationCurveEaseInOut];
+        [UIView setAnimationDuration:2.0];
+        //[UIView setAnimationsEnabled:YES];
+        //[UIView setAnimationRepeatCount:0];
+        
+        self.scanLine.center = endPos;
+        
+        [UIView setAnimationDelegate:self];
+        [UIView setAnimationDidStopSelector:@selector(animationFinished:)];
+        [UIView commitAnimations];
     }
     else 
     {
-        if (self.curYPos <= cropRect.origin.y)
-        {
-            self.curYPos = cropRect.origin.y + 1;
-            self.isMovingDown = TRUE;
-        }
-        else 
-        {
-            self.curYPos = self.curYPos - 1;
-        }
+        CGPoint endPos = self.scanLine.center;
+        endPos.y = cropRect.origin.y+CROPWIDTH;
+        
+        CGContextRef context = UIGraphicsGetCurrentContext();
+        [UIView beginAnimations:@"toup" context:context];
+        [UIView setAnimationCurve:UIViewAnimationCurveEaseInOut];
+        [UIView setAnimationDuration:2.0];
+        //[UIView setAnimationsEnabled:YES];
+        //[UIView setAnimationRepeatCount:0];
+        
+        self.scanLine.center = endPos;
+        
+        [UIView setAnimationDelegate:self];
+        [UIView setAnimationDidStopSelector:@selector(animationFinished:)];
+        [UIView commitAnimations];
     }
-
-    self.scanLine.center = CGPointMake(cropRect.origin.x+(cropRect.size.width)/2, self.curYPos);
 }
+
+//动画结束后的回调函数
+- (void) animationFinished: (id) sender
+{
+    NSString *name = (NSString*)sender;
+    //self.scanLine.hidden = YES;
+    
+    if ([name isEqualToString:@"todown"])
+    {
+        [self performSelector:@selector(setScan:) withObject:@"0" afterDelay:0.1]; 
+    }
+    else 
+    {
+        [self performSelector:@selector(setScan:) withObject:@"1" afterDelay:0.1]; 
+    }
+}
+
 
 #define kTextMargin 10
 

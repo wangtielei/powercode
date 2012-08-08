@@ -21,11 +21,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "BestPractice/ZCodeViewController.mm"
-         timestampString = "366084696.474632"
+         timestampString = "366099691.162189"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "158"
-         endingLineNumber = "158"
+         startingLineNumber = "175"
+         endingLineNumber = "175"
          landmarkName = "-successDecodeImage:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -34,11 +34,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "BestPractice/ZCodeViewController.mm"
-         timestampString = "366084696.474632"
+         timestampString = "366099691.162189"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "167"
-         endingLineNumber = "167"
+         startingLineNumber = "184"
+         endingLineNumber = "184"
          landmarkName = "-failDecodeImage:"
          landmarkType = "5">
       </FileBreakpoint>

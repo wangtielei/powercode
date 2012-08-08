@@ -137,6 +137,11 @@
   return NO;
 }
 
+- (void)viewWillDisappear:(BOOL)animated
+{
+    //[self.overlayView setScan:FALSE];
+}
+
 - (void)viewWillAppear:(BOOL)animated {
   [super viewWillAppear:animated];
   //self.wantsFullScreenLayout = NO;
@@ -146,6 +151,8 @@
       NSLog(@"Problem loading nearSound.caf");
     }
   }
+    
+    [self.overlayView setScan:@"1"];
     
     //更改navigation bar的图标
     UIButton *backButton = [UIButton buttonWithType:UIButtonTypeCustom];    
