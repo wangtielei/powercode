@@ -117,7 +117,17 @@
     //NSString *imageType = [info objectForKey:@"UIImagePickerControllerMediaType"];
     [self dismissModalViewControllerAnimated:YES];
     
-    [self.qrImageDecoder asyncDecode:selectedImage];
+    //[self.qrImageDecoder asyncDecode:selectedImage];
+    NSString *result = [self.qrImageDecoder syncDecode:selectedImage];
+    
+    if (result)
+    {
+        [self setResult:result];
+    }
+    else 
+    {
+        [self setResult:@"decode failed"];
+    }
     DDLogEndMethodInfo();
 }
 

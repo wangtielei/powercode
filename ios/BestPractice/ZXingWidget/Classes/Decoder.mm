@@ -157,7 +157,8 @@ public:
 #endif
 }  
 
-- (BOOL)decode {
+- (BOOL)decode:(BOOL)isAsync
+{
   NSAutoreleasePool* mainpool = [[NSAutoreleasePool alloc] init];
   TwoDDecoderResult *decoderResult = nil;
   BOOL returnCode = NO;
@@ -229,8 +230,8 @@ public:
         } catch (...) {
           NSLog(@"Caught unknown exception!");
         }
-        [resultString release];
-        resultString = nil;
+        //[resultString release];
+        //resultString = nil;
         [points release];
         [secondarypool release];
       }
@@ -258,17 +259,23 @@ public:
 
     if (decoderResult) 
     {
-      [self performSelectorOnMainThread:@selector(didDecodeImage:)
-                   withObject:[decoderResult copy]
-                waitUntilDone:NO];
+        if (isAsync)
+        {
+            [self performSelectorOnMainThread:@selector(didDecodeImage:)
+                                   withObject:[decoderResult copy]
+                                waitUntilDone:NO];
+        }
       [decoderResult release];
       returnCode = YES;
     } 
     else 
     {
-      [self performSelectorOnMainThread:@selector(failedToDecodeImage:)
+        if (isAsync)
+        {
+            [self performSelectorOnMainThread:@selector(failedToDecodeImage:)
                    withObject:NSLocalizedString(@"Decoder BarcodeDetectionFailure", @"No barcode detected.")
                 waitUntilDone:NO];
+        }
     }
   }
   
@@ -291,7 +298,7 @@ public:
     self.image = srcImage;
     self.cropRect = rc;
     [self prepareSubset];
-    if ([self decode])
+    if ([self decode:FALSE])
     {
         return self->resultString;
     }
@@ -312,7 +319,7 @@ public:
   self.cropRect = cr;
   [self prepareSubset];
   [self willDecodeImage];
-  return [self decode];
+    return [self decode:TRUE];
 }
 
 - (void) dealloc {
