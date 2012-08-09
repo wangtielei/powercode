@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All Samples</key>
+	<array>
+		<dict>
+			<key>LogType</key>
+			<string>Pass</string>
+			<key>Message</key>
+			<string>PASS: Correct number of Text field(s)</string>
+			<key>Timestamp</key>
+			<date>2011-10-24T09:25:49Z</date>
+			<key>Type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Pass</string>
+			<key>Message</key>
+			<string>PASS: Correct number of Secure field(s)</string>
+			<key>Timestamp</key>
+			<date>2011-10-24T09:25:49Z</date>
+			<key>Type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Pass</string>
+			<key>Message</key>
+			<string>PASS: Correct number of static field(s)</string>
+			<key>Timestamp</key>
+			<date>2011-10-24T09:25:49Z</date>
+			<key>Type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Pass</string>
+			<key>Message</key>
+			<string>PASS: Correct number of button(s)</string>
+			<key>Timestamp</key>
+			<date>2011-10-24T09:25:49Z</date>
+			<key>Type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Pass</string>
+			<key>Message</key>
+			<string>PASS: Desired UITextField is available</string>
+			<key>Timestamp</key>
+			<date>2011-10-24T09:25:49Z</date>
+			<key>Type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Pass</string>
+			<key>Message</key>
+			<string>PASS: Desired UISecureField is available</string>
+			<key>Timestamp</key>
+			<date>2011-10-24T09:25:49Z</date>
+			<key>Type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Pass</string>
+			<key>Message</key>
+			<string>PASS: Desired UIButton is available</string>
+			<key>Timestamp</key>
+			<date>2011-10-24T09:25:49Z</date>
+			<key>Type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Pass</string>
+			<key>Message</key>
+			<string>Missing User Name</string>
+			<key>Timestamp</key>
+			<date>2011-10-24T09:25:49Z</date>
+			<key>Type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Pass</string>
+			<key>Message</key>
+			<string> Missing Password</string>
+			<key>Timestamp</key>
+			<date>2011-10-24T09:25:51Z</date>
+			<key>Type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Default</string>
+			<key>Message</key>
+			<string>Script completed.</string>
+			<key>Timestamp</key>
+			<date>2011-10-24T09:25:54Z</date>
+			<key>Type</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>

@@ -1,0 +1,406 @@
+TLoginWindow
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/Info.plist LoginWindow-Info.plist
+cCompileXIB /Users/guanjianjun/LoginWindow/MainWindow.xib
+cCompileXIB /Users/guanjianjun/LoginWindow/LoginWindowViewController.xib
+cCopyPNGFile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/inputtext.png Images/inputtext.png
+cCopyPNGFile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbtn.png Images/loginbtn.png
+cCompileXIB /Users/guanjianjun/LoginWindow/Classes/NextViewController.xib
+cCopyPNGFile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/back.png Images/back.png
+cCopyPNGFile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbg.png Images/loginbg.png
+cCompileC DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/main.o /Users/guanjianjun/LoginWindow/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowAppDelegate.o /Users/guanjianjun/LoginWindow/Classes/LoginWindowAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowViewController.o /Users/guanjianjun/LoginWindow/Classes/LoginWindowViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/NextViewController.o /Users/guanjianjun/LoginWindow/Classes/NextViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindow normal armv7
+cGenerateDSYMFile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app.dSYM /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindow
+cProcessProductPackaging "/Users/guanjianjun/Library/MobileDevice/Provisioning Profiles/036C0193-3235-47F0-BCCE-3A0941DCE52E.mobileprovision" /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/guanjianjun/Library/MobileDevice/Provisioning Profiles/036C0193-3235-47F0-BCCE-3A0941DCE52E.mobileprovision" /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/embedded.mobileprovision
+cTouch /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow.xcent
+cCodeSign /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004F453DF20000000000000110
+t1329937906
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+c000000004FBC5D9400000000000001A7
+t1337744788
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+c000000004FBC5D9400000000000001E5
+t1337744788
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FBC5D9500000000003AE430
+t1337744789
+s3859504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FBC5D96000000000052C940
+t1337744790
+s5425472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004FBC5D960000000000000BF5
+t1337744790
+s3061
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FBC5D970000000000798EA0
+t1337744791
+s7966368
+
+N/Users/guanjianjun/Library/MobileDevice/Provisioning Profiles/036C0193-3235-47F0-BCCE-3A0941DCE52E.mobileprovision
+c000000004FB366F4000000000000A6DE
+t1337157364
+s42718
+
+N/Users/guanjianjun/LoginWindow/Classes/LoginWindowAppDelegate.m
+c000000004FC7132E0000000000000BAF
+t1338446638
+s2991
+
+N/Users/guanjianjun/LoginWindow/Classes/LoginWindowViewController.m
+c000000004FC7132E0000000000000A5A
+t1338446638
+s2650
+
+N/Users/guanjianjun/LoginWindow/Classes/NextViewController.m
+c000000004FC7132E00000000000003D2
+t1338446638
+s978
+
+N/Users/guanjianjun/LoginWindow/Classes/NextViewController.xib
+c000000004FC7132E00000000000059A8
+t1338446638
+s22952
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow.xcent
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindow.LinkFileList
+c000000004FC713BB000000000000029D
+t1338446779
+s669
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowAppDelegate.o
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowViewController.o
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/NextViewController.o
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app.dSYM
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/Info.plist
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindow
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindowViewController.nib
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/MainWindow.nib
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/NextViewController.nib
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/PkgInfo
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/ResourceRules.plist
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/back.png
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/inputtext.png
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbg.png
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbtn.png
+t2
+s0
+
+N/Users/guanjianjun/LoginWindow/Images/back.png
+c000000004FC7132E000000000000068E
+t1338446638
+s1678
+
+N/Users/guanjianjun/LoginWindow/Images/inputtext.png
+c000000004FC7132E000000000000025B
+t1338446638
+s603
+
+N/Users/guanjianjun/LoginWindow/Images/loginbg.png
+c000000004FC7132E00000000000027B5
+t1338446638
+s10165
+
+N/Users/guanjianjun/LoginWindow/Images/loginbtn.png
+c000000004FC7132E0000000000000799
+t1338446638
+s1945
+
+N/Users/guanjianjun/LoginWindow/LoginWindowViewController.xib
+c000000004FC7132E0000000000008A13
+t1338446638
+s35347
+
+N/Users/guanjianjun/LoginWindow/MainWindow.xib
+c000000004FC7132E0000000000004E59
+t1338446638
+s20057
+
+N/Users/guanjianjun/LoginWindow/main.m
+c000000004FC7132E0000000000000165
+t1338446638
+s357
+i<UIKit/UIKit.h>
+
+NLoginWindow-Info.plist
+c000000004FC7132E00000000000003CA
+t1338446638
+s970
+
+CBuild AST from /Users/guanjianjun/LoginWindow/Classes/LoginWindowAppDelegate.m
+r0
+
+CBuild AST from /Users/guanjianjun/LoginWindow/Classes/LoginWindowViewController.m
+r0
+
+CBuild AST from /Users/guanjianjun/LoginWindow/Classes/NextViewController.m
+r0
+
+CBuild AST from /Users/guanjianjun/LoginWindow/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1572cd3b4b77b541^fdc1dc3b4b77b541^---0#1#0#--18"Check dependencies36"0A0BCC7C-8906-4E51-A540-9269D638A27D-
+
+CCodeSign /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app
+s360139580.580988
+e360139580.703969
+r1
+xCodeSign
+x/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"CodeSign DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app85cd943c4b77b541^9337b43c4b77b541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/0000000000000000^917"CodeSign DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app    cd /Users/guanjianjun/LoginWindow    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 6e8c52d7e44977525ad0669c1b2a6c190786b085 --resource-rules=/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/ResourceRules.plist --entitlements /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow.xcent /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app36"C070A42A-9669-48ED-9940-2BA46CD316BC-
+
+CCompileC DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowAppDelegate.o /Users/guanjianjun/LoginWindow/Classes/LoginWindowAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360139580.103042
+e360139580.351819
+r1
+xCompileC
+xDerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowAppDelegate.o
+x/Users/guanjianjun/LoginWindow/Classes/LoginWindowAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/guanjianjun/LoginWindow/Classes/LoginWindowAppDelegate.mbc791a3c4b77b541^f31b5a3c4b77b541^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/guanjianjun/LoginWindow/Classes/LoginWindowAppDelegate.m0000000000000000^3373"CompileC DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowAppDelegate.o Classes/LoginWindowAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/LoginWindow    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.1 -iquote /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-generated-files.hmap -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-own-target-headers.hmap -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-all-target-headers.hmap -iquote /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-project-headers.hmap -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/include -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/DerivedSources/armv7 -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/DerivedSources -F/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos -MMD -MT dependencies -MF /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowAppDelegate.d --serialize-diagnostics /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowAppDelegate.dia -c /Users/guanjianjun/LoginWindow/Classes/LoginWindowAppDelegate.m -o /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowAppDelegate.o36"EF588157-F528-43DC-B4B4-ECD1C2AE94EB-
+
+CCompileC DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowViewController.o /Users/guanjianjun/LoginWindow/Classes/LoginWindowViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360139580.103198
+e360139580.368449
+r1
+xCompileC
+xDerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowViewController.o
+x/Users/guanjianjun/LoginWindow/Classes/LoginWindowViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/guanjianjun/LoginWindow/Classes/LoginWindowViewController.m73821a3c4b77b541^19555e3c4b77b541^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/guanjianjun/LoginWindow/Classes/LoginWindowViewController.m0000000000000000^3391"CompileC DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowViewController.o Classes/LoginWindowViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/LoginWindow    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.1 -iquote /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-generated-files.hmap -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-own-target-headers.hmap -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-all-target-headers.hmap -iquote /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-project-headers.hmap -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/include -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/DerivedSources/armv7 -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/DerivedSources -F/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos -MMD -MT dependencies -MF /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowViewController.d --serialize-diagnostics /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowViewController.dia -c /Users/guanjianjun/LoginWindow/Classes/LoginWindowViewController.m -o /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindowViewController.o36"2AA74962-B0DE-4929-8595-2C7DB61A0FA8-
+
+CCompileC DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/NextViewController.o /Users/guanjianjun/LoginWindow/Classes/NextViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360139580.103837
+e360139580.347735
+r1
+xCompileC
+xDerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/NextViewController.o
+x/Users/guanjianjun/LoginWindow/Classes/NextViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/guanjianjun/LoginWindow/Classes/NextViewController.m4bae1a3c4b77b541^5c05593c4b77b541^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/guanjianjun/LoginWindow/Classes/NextViewController.m0000000000000000^3349"CompileC DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/NextViewController.o Classes/NextViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/LoginWindow    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.1 -iquote /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-generated-files.hmap -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-own-target-headers.hmap -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-all-target-headers.hmap -iquote /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-project-headers.hmap -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/include -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/DerivedSources/armv7 -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/DerivedSources -F/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos -MMD -MT dependencies -MF /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/NextViewController.d --serialize-diagnostics /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/NextViewController.dia -c /Users/guanjianjun/LoginWindow/Classes/NextViewController.m -o /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/NextViewController.o36"F3CD75C3-881E-4CD8-9E3E-5A808D998D93-
+
+CCompileC DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/main.o /Users/guanjianjun/LoginWindow/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360139580.102848
+e360139580.327198
+r1
+xCompileC
+xDerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/main.o
+x/Users/guanjianjun/LoginWindow/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Compile /Users/guanjianjun/LoginWindow/main.mb8ea1a3c4b77b541^50c3533c4b77b541^---0#0#0#-19%DVTDocumentLocation2@53"file://localhost/Users/guanjianjun/LoginWindow/main.m0000000000000000^3249"CompileC DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/main.o main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guanjianjun/LoginWindow    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.1 -iquote /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-generated-files.hmap -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-own-target-headers.hmap -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-all-target-headers.hmap -iquote /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow-project-headers.hmap -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/include -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/DerivedSources/armv7 -I/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/DerivedSources -F/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos -MMD -MT dependencies -MF /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/main.dia -c /Users/guanjianjun/LoginWindow/main.m -o /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/main.o36"BA5A6718-798E-4725-8EA6-264FA89C2108-
+
+CCompileXIB /Users/guanjianjun/LoginWindow/Classes/NextViewController.xib
+s360139579.938846
+e360139580.010823
+r1
+xCompileXIB
+x/Users/guanjianjun/LoginWindow/Classes/NextViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compiling /Users/guanjianjun/LoginWindow/Classes/NextViewController.xib1268f03b4b77b541^26c6023c4b77b541^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/guanjianjun/LoginWindow/Classes/NextViewController.xib0000000000000000^839"CompileXIB Classes/NextViewController.xib    cd /Users/guanjianjun/LoginWindow    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/NextViewController.nib /Users/guanjianjun/LoginWindow/Classes/NextViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"6A9B8756-3D8E-4B5C-9034-3FDA68BB5960-
+
+CCompileXIB /Users/guanjianjun/LoginWindow/LoginWindowViewController.xib
+s360139579.879099
+e360139580.061015
+r1
+xCompileXIB
+x/Users/guanjianjun/LoginWindow/LoginWindowViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compiling /Users/guanjianjun/LoginWindow/LoginWindowViewController.xib0d1be13b4b77b541^569f0f3c4b77b541^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/guanjianjun/LoginWindow/LoginWindowViewController.xib0000000000000000^844"CompileXIB LoginWindowViewController.xib    cd /Users/guanjianjun/LoginWindow    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindowViewController.nib /Users/guanjianjun/LoginWindow/LoginWindowViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"8D886DDE-67C3-4CA8-B017-DD6152DCB573-
+
+CCompileXIB /Users/guanjianjun/LoginWindow/MainWindow.xib
+s360139579.878884
+e360139579.938337
+r1
+xCompileXIB
+x/Users/guanjianjun/LoginWindow/MainWindow.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compiling /Users/guanjianjun/LoginWindow/MainWindow.xib670ee13b4b77b541^f73bf03b4b77b541^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Users/guanjianjun/LoginWindow/MainWindow.xib0000000000000000^799"CompileXIB MainWindow.xib    cd /Users/guanjianjun/LoginWindow    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/MainWindow.nib /Users/guanjianjun/LoginWindow/MainWindow.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"72BEAD04-0FED-41C0-9A0E-27409BDE2883-
+
+CCopyPNGFile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/back.png Images/back.png
+s360139579.939311
+e360139580.007878
+r1
+xCopyPNGFile
+x/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/back.png
+xImages/back.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/back.png Images/back.png4084f03b4b77b541^c004023c4b77b541^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Users/guanjianjun/LoginWindow/Images/back.png0000000000000000^685"CopyPNGFile DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/back.png Images/back.png    cd /Users/guanjianjun/LoginWindow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/guanjianjun/LoginWindow/Images/back.png /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/back.png36"BD17095C-FEDA-464A-8ADF-727FF7D79847-
+
+CCopyPNGFile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/inputtext.png Images/inputtext.png
+s360139579.879261
+e360139579.968968
+r1
+xCopyPNGFile
+x/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/inputtext.png
+xImages/inputtext.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"CopyPNGFile DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/inputtext.png Images/inputtext.pngd124e13b4b77b541^b115f83b4b77b541^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/guanjianjun/LoginWindow/Images/inputtext.png0000000000000000^705"CopyPNGFile DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/inputtext.png Images/inputtext.png    cd /Users/guanjianjun/LoginWindow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/guanjianjun/LoginWindow/Images/inputtext.png /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/inputtext.png36"8404760A-D939-4173-AE5C-682FDEC175B8-
+
+CCopyPNGFile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbg.png Images/loginbg.png
+s360139579.970199
+e360139580.091655
+r1
+xCopyPNGFile
+x/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbg.png
+xImages/loginbg.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"CopyPNGFile DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbg.png Images/loginbg.png056ff83b4b77b541^588f173c4b77b541^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/guanjianjun/LoginWindow/Images/loginbg.png0000000000000000^697"CopyPNGFile DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbg.png Images/loginbg.png    cd /Users/guanjianjun/LoginWindow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/guanjianjun/LoginWindow/Images/loginbg.png /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbg.png36"911F9ECB-46C8-4450-82F9-12A90BE4CB65-
+
+CCopyPNGFile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbtn.png Images/loginbtn.png
+s360139579.879416
+e360139579.937293
+r1
+xCopyPNGFile
+x/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbtn.png
+xImages/loginbtn.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CopyPNGFile DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbtn.png Images/loginbtn.png562de13b4b77b541^3812f03b4b77b541^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/guanjianjun/LoginWindow/Images/loginbtn.png0000000000000000^701"CopyPNGFile DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbtn.png Images/loginbtn.png    cd /Users/guanjianjun/LoginWindow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/guanjianjun/LoginWindow/Images/loginbtn.png /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/loginbtn.png36"58B4B2C5-5388-49EF-91A0-00DF367D5634-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/ResourceRules.plist
+s360139579.867428
+e360139579.871266
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+xDerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/ResourceRules.plist4b1fde3b4b77b541^7311df3b4b77b541^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/ResourceRules.plist000000000080d041^889"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/ResourceRules.plist    cd /Users/guanjianjun/LoginWindow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app36"F5A5AFF0-7711-40B6-8606-127DEFC7DC47-
+
+CGenerateDSYMFile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app.dSYM /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindow
+s360139580.430885
+e360139580.447525
+r1
+xGenerateDSYMFile
+x/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app.dSYM
+x/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindow
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Generating /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app.dSYM3e5c6e3c4b77b541^1091723c4b77b541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app.dSYM000000000080d041^686"GenerateDSYMFile DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app.dSYM DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindow    cd /Users/guanjianjun/LoginWindow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/dsymutil /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindow -o /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app.dSYM36"AD8FF0E9-EB1A-41F5-BABF-D84775F14701-
+
+CLd /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindow normal armv7
+s360139580.375931
+e360139580.423627
+r1
+xLd
+x/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindow
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindow874d603c4b77b541^58736c3c4b77b541^---0#0#0#--1161"Ld DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindow normal armv7    cd /Users/guanjianjun/LoginWindow    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -L/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos -F/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos -filelist /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/Objects-normal/armv7/LoginWindow.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/LoginWindow36"7AD0E26D-564E-4F7F-B9E0-3B068881B995-
+
+CProcessInfoPlistFile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/Info.plist LoginWindow-Info.plist
+s360139579.867433
+e360139579.871274
+r1
+xProcessInfoPlistFile
+x/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/Info.plist
+xLoginWindow-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process LoginWindow-Info.plist191fde3b4b77b541^e815df3b4b77b541^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/guanjianjun/LoginWindow/LoginWindow-Info.plist0000000000000000^834"ProcessInfoPlistFile DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/Info.plist LoginWindow-Info.plist    cd /Users/guanjianjun/LoginWindow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LoginWindow-Info.plist -genpkginfo /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/ResourceRules.plist -o /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/Info.plist36"A718AA4B-7ABB-4694-AFA1-2045EA1B67D6-
+
+CProcessProductPackaging "/Users/guanjianjun/Library/MobileDevice/Provisioning Profiles/036C0193-3235-47F0-BCCE-3A0941DCE52E.mobileprovision" /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/embedded.mobileprovision
+s360139580.468325
+e360139580.471800
+r1
+xProcessProductPackaging
+x/Users/guanjianjun/Library/MobileDevice/Provisioning Profiles/036C0193-3235-47F0-BCCE-3A0941DCE52E.mobileprovision
+x/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection235"ProcessProductPackaging "/Users/guanjianjun/Library/MobileDevice/Provisioning Profiles/036C0193-3235-47F0-BCCE-3A0941DCE52E.mobileprovision" DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/embedded.mobileprovisione9f1773c4b77b541^9fc7783c4b77b541^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/embedded.mobileprovision0000000000000000^744"ProcessProductPackaging "/Users/guanjianjun/Library/MobileDevice/Provisioning Profiles/036C0193-3235-47F0-BCCE-3A0941DCE52E.mobileprovision" DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/embedded.mobileprovision    cd /Users/guanjianjun/LoginWindow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/guanjianjun/Library/MobileDevice/Provisioning Profiles/036C0193-3235-47F0-BCCE-3A0941DCE52E.mobileprovision" -o /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app/embedded.mobileprovision36"34D5A2B9-97A5-4B26-8807-6F7D024B00FF-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow.xcent
+s360139580.501951
+e360139580.572207
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+x/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection257"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow.xcent6090803c4b77b541^e17c923c4b77b541^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow.xcent000000000080d041^814"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow.xcent    cd /Users/guanjianjun/LoginWindow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Intermediates/LoginWindow.build/Debug-iphoneos/LoginWindow.build/LoginWindow.xcent36"CE374C07-263E-48EE-BB5D-CD641770E38D-
+
+CTouch /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app
+s360139580.482789
+e360139580.493187
+r1
+xTouch
+x/Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Touch /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app1aa57b3c4b77b541^ee437e3c4b77b541^---0#0#0#--425"Touch DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app    cd /Users/guanjianjun/LoginWindow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/guanjianjun/LoginWindow/DerivedData/LoginWindow/Build/Products/Debug-iphoneos/LoginWindow.app36"BDE18D10-F550-4CF4-9518-C77419036FBC-
+
