@@ -19,26 +19,8 @@ int ddLogLevel = LOG_LEVEL_WARN;
 
 int main(int argc, char *argv[])
 {
-    @autoreleasepool {
-        id<DDLogFormatter> logFormatter = [[CustomLogFormatter alloc]init];
-        //DDTTYLogger将log打印到iphone系统的console
-        [[DDTTYLogger sharedInstance] setLogFormatter:logFormatter];
-        //DDTTYLogger将log打印到Xcode的console
-        [[DDASLLogger sharedInstance] setLogFormatter:logFormatter];
-        
-        [DDLog addLogger:[DDTTYLogger sharedInstance]];
-        [DDLog addLogger:[DDASLLogger sharedInstance]];
-        
-#ifdef DEBUG
-        //DDFileLogger将log打印到系统文件
-        //* On Mac, this is in ~/Library/Logs/<Application Name>.
-        //* On iPhone, this is in ~/Library/Caches/Logs.
-        DDFileLogger *fileLogger = [[DDFileLogger alloc] init];
-        [fileLogger setLogFormatter:logFormatter];
-        
-        [DDLog addLogger:fileLogger];
-#endif
-
+    @autoreleasepool 
+    {        
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
 }

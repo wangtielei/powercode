@@ -47,6 +47,8 @@
 - (void)viewWillAppear:(BOOL)animated 
 {
     DDLogEndMethodInfo();
+    
+    float f = 100/0;
 }
 
 - (void)viewDidUnload

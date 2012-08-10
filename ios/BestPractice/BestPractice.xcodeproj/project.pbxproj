@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		557383E015D0B8230082D427 /* libZXingWidget.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5598CE0815CFC5A100BB21F1 /* libZXingWidget.a */; };
+		5596E14615D51FAF00BE1767 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5596E14515D51FAF00BE1767 /* MessageUI.framework */; };
 		55987D2715B3CF40002810B4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55987D2615B3CF40002810B4 /* UIKit.framework */; };
 		55987D2915B3CF40002810B4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55987D2815B3CF40002810B4 /* Foundation.framework */; };
 		55987D2B15B3CF40002810B4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55987D2A15B3CF40002810B4 /* CoreGraphics.framework */; };
@@ -83,6 +84,7 @@
 /* Begin PBXFileReference section */
 		555BA99D15D0CA5C00C46D9B /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "zh-Hans"; path = "zh-Hans.lproj/MainStoryboard.storyboard"; sourceTree = "<group>"; };
 		556CE1D615B5353100762FFA /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		5596E14515D51FAF00BE1767 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 		55987D2215B3CF40002810B4 /* BestPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BestPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55987D2615B3CF40002810B4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		55987D2815B3CF40002810B4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -157,6 +159,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5596E14615D51FAF00BE1767 /* MessageUI.framework in Frameworks */,
 				557383E015D0B8230082D427 /* libZXingWidget.a in Frameworks */,
 				55BC7FA715BA98FA006D2B07 /* AddressBook.framework in Frameworks */,
 				55BC7FA815BA98FA006D2B07 /* AddressBookUI.framework in Frameworks */,
@@ -196,6 +199,7 @@
 		55987D2515B3CF40002810B4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				5596E14515D51FAF00BE1767 /* MessageUI.framework */,
 				55BC7FA515BA98FA006D2B07 /* AddressBook.framework */,
 				55BC7FA615BA98FA006D2B07 /* AddressBookUI.framework */,
 				55BC7FA315BA98D1006D2B07 /* libiconv.dylib */,
