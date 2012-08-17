@@ -35,4 +35,3 @@ extern int ddLogLevel;
 
 #define AssertMainThread()                NSAssert([NSThread isMainThread], @"this method should be called from the main thread");
 #define CAssertMainThread()               NSCAssert([NSThread isMainThread], @"this method should be called from the main thread");
-

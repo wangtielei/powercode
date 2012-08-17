@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		55674EF315D8929900B16EBF /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55674EF215D8929900B16EBF /* WebViewController.m */; };
 		557383E015D0B8230082D427 /* libZXingWidget.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5598CE0815CFC5A100BB21F1 /* libZXingWidget.a */; };
 		5596E14615D51FAF00BE1767 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5596E14515D51FAF00BE1767 /* MessageUI.framework */; };
 		55987D2715B3CF40002810B4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55987D2615B3CF40002810B4 /* UIKit.framework */; };
@@ -82,7 +83,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		555BA99D15D0CA5C00C46D9B /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "zh-Hans"; path = "zh-Hans.lproj/MainStoryboard.storyboard"; sourceTree = "<group>"; };
+		550776A315D8A4B300BAD7C0 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "zh-Hans"; path = "zh-Hans.lproj/MainStoryboard.storyboard"; sourceTree = "<group>"; };
+		55674EF115D8929900B16EBF /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
+		55674EF215D8929900B16EBF /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
 		556CE1D615B5353100762FFA /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		5596E14515D51FAF00BE1767 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 		55987D2215B3CF40002810B4 /* BestPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BestPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -237,6 +240,8 @@
 				55987D2D15B3CF41002810B4 /* Supporting Files */,
 				55BC7FA915BA99F1006D2B07 /* ZCodeViewController.h */,
 				55BC7FAA15BA99F1006D2B07 /* ZCodeViewController.mm */,
+				55674EF115D8929900B16EBF /* WebViewController.h */,
+				55674EF215D8929900B16EBF /* WebViewController.m */,
 			);
 			path = BestPractice;
 			sourceTree = "<group>";
@@ -446,6 +451,7 @@
 				5598CE5715CFCE7B00BB21F1 /* ContextFilterLogFormatter.m in Sources */,
 				5598CE5815CFCE7B00BB21F1 /* CustomLogFormatter.m in Sources */,
 				5598CE5915CFCE7B00BB21F1 /* DispatchQueueLogFormatter.m in Sources */,
+				55674EF315D8929900B16EBF /* WebViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -472,7 +478,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				55987D3915B3CF41002810B4 /* en */,
-				555BA99D15D0CA5C00C46D9B /* zh-Hans */,
+				550776A315D8A4B300BAD7C0 /* zh-Hans */,
 			);
 			name = MainStoryboard.storyboard;
 			sourceTree = "<group>";
