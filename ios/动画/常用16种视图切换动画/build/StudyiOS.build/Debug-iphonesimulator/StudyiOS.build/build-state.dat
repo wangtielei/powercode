@@ -1,0 +1,469 @@
+TStudyiOS
+v7
+r0
+t338913530.062517
+cCheck dependencies
+cProcessInfoPlistFile /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/Info.plist StudyiOS-Info.plist
+cCompileXIB /Users/apple/iOS/Project/StudyiOS/MainWindow.xib
+cCompileXIB /Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.xib
+cCpResource build/Debug-iphonesimulator/StudyiOS.app/blue.png blue.png
+cCpResource build/Debug-iphonesimulator/StudyiOS.app/red.png red.png
+cCpResource build/Debug-iphonesimulator/StudyiOS.app/green.png green.png
+cCompileXIB /Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.xib
+cProcessPCH /var/folders/8y/8yMgelQEEam43S2tKtRBB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StudyiOS_Prefix-cpklmnhbrygyfkaaxutgcbdcdptp/StudyiOS_Prefix.pch.gch StudyiOS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS.momd /Users/apple/iOS/Project/StudyiOS/StudyiOS.xcdatamodeld
+cCompileC build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/main.o /Users/apple/iOS/Project/StudyiOS/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/StudyiOSAppDelegate.o /Users/apple/iOS/Project/StudyiOS/Classes/StudyiOSAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/RootViewController.o /Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/AnimationViewController.o /Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS normal i386
+cGenerateDSYMFile /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app.dSYM /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS
+cTouch /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/apple/iOS/Project/StudyiOS/BBC.png
+c000000004E7C9907000000000000283F
+t1316788487
+s10303
+
+N/Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.h
+c000000004E82E5C6000000000000028C
+t1317201350
+s652
+i<UIKit/UIKit.h>
+
+N/Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.m
+c000000004E833174000000000000129C
+t1317220724
+s4764
+i"AnimationViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.xib
+c000000004E83314F000000000000CF54
+t1317220687
+s53076
+
+N/Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.h
+c000000004E828359000000000000010D
+t1317176153
+s269
+i<UIKit/UIKit.h>
+
+N/Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.m
+c000000004E82EC5E00000000000007EC
+t1317203038
+s2028
+i"RootViewController.h"
+i"AnimationViewController.h"
+
+N/Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.xib
+c000000004E82EC7A0000000000004AEC
+t1317203066
+s19180
+
+N/Users/apple/iOS/Project/StudyiOS/Classes/StudyiOSAppDelegate.h
+c000000004E81935300000000000003DC
+t1317114707
+s988
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/apple/iOS/Project/StudyiOS/Classes/StudyiOSAppDelegate.m
+c000000004E81949D0000000000001E48
+t1317115037
+s7752
+i"StudyiOSAppDelegate.h"
+
+N/Users/apple/iOS/Project/StudyiOS/IMG_0596.png
+c000000004E5C449700000000000531F1
+t1314669719
+s340465
+
+N/Users/apple/iOS/Project/StudyiOS/IMG_0597.png
+c000000004E5C45040000000000041194
+t1314669828
+s266644
+
+N/Users/apple/iOS/Project/StudyiOS/IMG_0598.png
+c000000004E5C450C00000000000405B2
+t1314669836
+s263602
+
+N/Users/apple/iOS/Project/StudyiOS/MainWindow.xib
+c000000004E81960A0000000000005EB5
+t1317115402
+s24245
+
+N/Users/apple/iOS/Project/StudyiOS/StudyiOS.xcdatamodeld
+c000000004E8191B60000000000000088
+t1317114294
+s136
+
+N/Users/apple/iOS/Project/StudyiOS/StudyiOS_Prefix.pch
+c000000004E8191B60000000000000164
+t1317114294
+s356
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/apple/iOS/Project/StudyiOS/blue.png
+c000000004E5C450C00000000000405B2
+t1314669836
+s263602
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app
+t1317220730
+s408
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app.dSYM
+t1317220730
+s102
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/AnimationViewController.nib
+t1317220729
+s4615
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/BBC.png
+t2
+s0
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/IMG_0596.png
+t2
+s0
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/IMG_0597.png
+t2
+s0
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/IMG_0598.png
+t2
+s0
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/Info.plist
+t1317114543
+s595
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/MainWindow.nib
+t1317115419
+s1503
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/PkgInfo
+t1317114543
+s8
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/RootViewController.nib
+t1317203217
+s1444
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS
+t1317220729
+s30784
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS.momd
+t1317114545
+s136
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/blue.png
+t1317175979
+s263602
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/green.png
+t1317175979
+s340465
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/red
+t2
+s0
+
+N/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/red.png
+t1317175979
+s266644
+
+N/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/AnimationViewController.o
+t1317220729
+s54472
+
+N/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/RootViewController.o
+t1317203217
+s41072
+
+N/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/StudyiOS.LinkFileList
+c000000004E8284B4000000000000020C
+t1317176500
+s524
+
+N/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/StudyiOSAppDelegate.o
+t1317115041
+s64300
+
+N/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/main.o
+t1317114545
+s6292
+
+N/Users/apple/iOS/Project/StudyiOS/green.png
+c000000004E5C449700000000000531F1
+t1314669719
+s340465
+
+N/Users/apple/iOS/Project/StudyiOS/main.m
+c000000004E8191B6000000000000016B
+t1317114294
+s363
+i<UIKit/UIKit.h>
+
+N/Users/apple/iOS/Project/StudyiOS/red
+c000000004E5C45040000000000041194
+t1314669828
+s266644
+
+N/Users/apple/iOS/Project/StudyiOS/red.png
+c000000004E5C45040000000000041194
+t1314669828
+s266644
+
+N/var/folders/8y/8yMgelQEEam43S2tKtRBB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StudyiOS_Prefix-cpklmnhbrygyfkaaxutgcbdcdptp/StudyiOS_Prefix.pch.gch
+t1317114545
+s16326640
+
+NStudyiOS-Info.plist
+c000000004E8191B6000000000000038D
+t1317114294
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies338913528#338913528#0(0"0(0#1#0"8611582368#0"0#
+
+CCompileC build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/AnimationViewController.o /Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338913529.658867
+e338913529.948450
+r1
+xCompileC
+xbuild/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/AnimationViewController.o
+x/Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.m338913529#338913529#0(0"0(0#0#67"/Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.m8607955648#1925"    cd /Users/apple/iOS/Project/StudyiOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-generated-files.hmap -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-own-target-headers.hmap -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-all-target-headers.hmap -iquote /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-project-headers.hmap -F/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator -I/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/include -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/DerivedSources/i386 -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/DerivedSources -include /var/folders/8y/8yMgelQEEam43S2tKtRBB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StudyiOS_Prefix-cpklmnhbrygyfkaaxutgcbdcdptp/StudyiOS_Prefix.pch -c /Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.m -o /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/AnimationViewController.o0#
+
+CCompileC build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/RootViewController.o /Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338896017.386306
+e338896017.657206
+r1
+xCompileC
+xbuild/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/RootViewController.o
+x/Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.m338896017#338896017#0(0"0(0#0#62"/Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.m8662760672#1915"    cd /Users/apple/iOS/Project/StudyiOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-generated-files.hmap -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-own-target-headers.hmap -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-all-target-headers.hmap -iquote /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-project-headers.hmap -F/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator -I/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/include -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/DerivedSources/i386 -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/DerivedSources -include /var/folders/8y/8yMgelQEEam43S2tKtRBB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StudyiOS_Prefix-cpklmnhbrygyfkaaxutgcbdcdptp/StudyiOS_Prefix.pch -c /Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.m -o /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/StudyiOSAppDelegate.o /Users/apple/iOS/Project/StudyiOS/Classes/StudyiOSAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338807841.396035
+e338807841.558336
+r1
+xCompileC
+xbuild/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/StudyiOSAppDelegate.o
+x/Users/apple/iOS/Project/StudyiOS/Classes/StudyiOSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/apple/iOS/Project/StudyiOS/Classes/StudyiOSAppDelegate.m338807841#338807841#0(0"0(0#0#63"/Users/apple/iOS/Project/StudyiOS/Classes/StudyiOSAppDelegate.m8641647360#1917"    cd /Users/apple/iOS/Project/StudyiOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-generated-files.hmap -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-own-target-headers.hmap -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-all-target-headers.hmap -iquote /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-project-headers.hmap -F/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator -I/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/include -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/DerivedSources/i386 -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/DerivedSources -include /var/folders/8y/8yMgelQEEam43S2tKtRBB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StudyiOS_Prefix-cpklmnhbrygyfkaaxutgcbdcdptp/StudyiOS_Prefix.pch -c /Users/apple/iOS/Project/StudyiOS/Classes/StudyiOSAppDelegate.m -o /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/StudyiOSAppDelegate.o0#
+
+CCompileC build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/main.o /Users/apple/iOS/Project/StudyiOS/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338807345.710785
+e338807345.784181
+r1
+xCompileC
+xbuild/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/main.o
+x/Users/apple/iOS/Project/StudyiOS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/apple/iOS/Project/StudyiOS/main.m338807345#338807345#0(0"0(0#0#40"/Users/apple/iOS/Project/StudyiOS/main.m8641521344#1879"    cd /Users/apple/iOS/Project/StudyiOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-generated-files.hmap -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-own-target-headers.hmap -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-all-target-headers.hmap -iquote /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-project-headers.hmap -F/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator -I/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/include -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/DerivedSources/i386 -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/DerivedSources -include /var/folders/8y/8yMgelQEEam43S2tKtRBB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StudyiOS_Prefix-cpklmnhbrygyfkaaxutgcbdcdptp/StudyiOS_Prefix.pch -c /Users/apple/iOS/Project/StudyiOS/main.m -o /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.xib
+s338913528.620186
+e338913529.658325
+r1
+xCompileXIB
+x/Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.xib
+lSLF07#2@46"CompileXIB Classes/AnimationViewController.xib338913528#338913529#0(0"0(0#0#69"/Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.xib8611850784#590"    cd /Users/apple/iOS/Project/StudyiOS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/AnimationViewController.nib /Users/apple/iOS/Project/StudyiOS/Classes/AnimationViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.xib
+s338896016.639027
+e338896017.385857
+r1
+xCompileXIB
+x/Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.xib
+lSLF07#2@41"CompileXIB Classes/RootViewController.xib338896016#338896017#0(0"0(0#0#64"/Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.xib8667289248#580"    cd /Users/apple/iOS/Project/StudyiOS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/RootViewController.nib /Users/apple/iOS/Project/StudyiOS/Classes/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/apple/iOS/Project/StudyiOS/MainWindow.xib
+s338808217.725277
+e338808219.176387
+r1
+xCompileXIB
+x/Users/apple/iOS/Project/StudyiOS/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib338808217#338808219#0(0"0(0#0#48"/Users/apple/iOS/Project/StudyiOS/MainWindow.xib8606206560#556"    cd /Users/apple/iOS/Project/StudyiOS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/MainWindow.nib /Users/apple/iOS/Project/StudyiOS/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/StudyiOS.app/BBC.png BBC.png
+r0
+
+CCpResource build/Debug-iphonesimulator/StudyiOS.app/IMG_0596.png IMG_0596.png
+r0
+
+CCpResource build/Debug-iphonesimulator/StudyiOS.app/IMG_0597.png IMG_0597.png
+r0
+
+CCpResource build/Debug-iphonesimulator/StudyiOS.app/IMG_0598.png IMG_0598.png
+r0
+
+CCpResource build/Debug-iphonesimulator/StudyiOS.app/blue.png blue.png
+s338868779.485079
+e338868779.755769
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/StudyiOS.app/blue.png
+xblue.png
+lSLF07#2@13"Copy blue.png338868779#338868779#0(0"0(0#0#42"/Users/apple/iOS/Project/StudyiOS/blue.png8612697280#452"    cd /Users/apple/iOS/Project/StudyiOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/apple/iOS/Project/StudyiOS/blue.png /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app0#
+
+CCpResource build/Debug-iphonesimulator/StudyiOS.app/green.png green.png
+s338868779.486629
+e338868779.790866
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/StudyiOS.app/green.png
+xgreen.png
+lSLF07#2@14"Copy green.png338868779#338868779#0(0"0(0#0#43"/Users/apple/iOS/Project/StudyiOS/green.png8612235520#453"    cd /Users/apple/iOS/Project/StudyiOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/apple/iOS/Project/StudyiOS/green.png /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app0#
+
+CCpResource build/Debug-iphonesimulator/StudyiOS.app/red red
+r0
+
+CCpResource build/Debug-iphonesimulator/StudyiOS.app/red.png red.png
+s338868779.485904
+e338868779.776699
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/StudyiOS.app/red.png
+xred.png
+lSLF07#2@12"Copy red.png338868779#338868779#0(0"0(0#0#41"/Users/apple/iOS/Project/StudyiOS/red.png8612559200#451"    cd /Users/apple/iOS/Project/StudyiOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/apple/iOS/Project/StudyiOS/red.png /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app0#
+
+CDataModelVersionCompile /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS.momd /Users/apple/iOS/Project/StudyiOS/StudyiOS.xcdatamodeld
+s338807345.697985
+e338807345.844704
+r1
+xDataModelVersionCompile
+x/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS.momd
+x/Users/apple/iOS/Project/StudyiOS/StudyiOS.xcdatamodeld
+lSLF07#2@100"DataModelVersionCompile build/Debug-iphonesimulator/StudyiOS.app/StudyiOS.momd StudyiOS.xcdatamodeld338807345#338807345#0(0"0(0#0#55"/Users/apple/iOS/Project/StudyiOS/StudyiOS.xcdatamodeld8643322784#374"    cd /Users/apple/iOS/Project/StudyiOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/apple/iOS/Project/StudyiOS/StudyiOS.xcdatamodeld /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS.momd0#
+
+CGenerateDSYMFile /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app.dSYM /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS
+s338913530.003561
+e338913530.047190
+r1
+xGenerateDSYMFile
+x/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app.dSYM
+x/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/StudyiOS.app.dSYM build/Debug-iphonesimulator/StudyiOS.app/StudyiOS338913530#338913530#0(0"0(0#0#83"/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS8610690048#371"    cd /Users/apple/iOS/Project/StudyiOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS -o /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app.dSYM0#
+
+CLd /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS normal i386
+s338913529.948550
+e338913530.003463
+r1
+xLd
+x/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS
+xnormal
+xi386
+lSLF07#2@88"Link /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS338913529#338913530#0(0"0(0#0#0"8611474048#922"    cd /Users/apple/iOS/Project/StudyiOS    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator -F/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator -filelist /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/Objects-normal/i386/StudyiOS.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework QuartzCore -o /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/StudyiOS0#
+
+CProcessInfoPlistFile /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/Info.plist StudyiOS-Info.plist
+s338807343.824519
+e338807343.834072
+r1
+xProcessInfoPlistFile
+x/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/Info.plist
+xStudyiOS-Info.plist
+lSLF07#2@27"Process StudyiOS-Info.plist338807343#338807343#0(0"0(0#0#53"/Users/apple/iOS/Project/StudyiOS/StudyiOS-Info.plist8629417088#467"    cd /Users/apple/iOS/Project/StudyiOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility StudyiOS-Info.plist -genpkginfo /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app/Info.plist0#
+
+CProcessPCH /var/folders/8y/8yMgelQEEam43S2tKtRBB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StudyiOS_Prefix-cpklmnhbrygyfkaaxutgcbdcdptp/StudyiOS_Prefix.pch.gch StudyiOS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s338807344.568581
+e338807345.697833
+r1
+xProcessPCH
+x/var/folders/8y/8yMgelQEEam43S2tKtRBB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StudyiOS_Prefix-cpklmnhbrygyfkaaxutgcbdcdptp/StudyiOS_Prefix.pch.gch
+xStudyiOS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile StudyiOS_Prefix.pch338807344#338807345#0(0"0(0#0#53"/Users/apple/iOS/Project/StudyiOS/StudyiOS_Prefix.pch8647329952#1775"    cd /Users/apple/iOS/Project/StudyiOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-generated-files.hmap -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-own-target-headers.hmap -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-all-target-headers.hmap -iquote /Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/StudyiOS-project-headers.hmap -F/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator -I/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/include -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/DerivedSources/i386 -I/Users/apple/iOS/Project/StudyiOS/build/StudyiOS.build/Debug-iphonesimulator/StudyiOS.build/DerivedSources -c /Users/apple/iOS/Project/StudyiOS/StudyiOS_Prefix.pch -o /var/folders/8y/8yMgelQEEam43S2tKtRBB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StudyiOS_Prefix-cpklmnhbrygyfkaaxutgcbdcdptp/StudyiOS_Prefix.pch.gch0#
+
+CTouch /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app
+s338913530.047359
+e338913530.062457
+r1
+xTouch
+x/Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app
+lSLF07#2@80"Touch /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app338913530#338913530#0(0"0(0#0#0"8608548384#269"    cd /Users/apple/iOS/Project/StudyiOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/apple/iOS/Project/StudyiOS/build/Debug-iphonesimulator/StudyiOS.app0#
+
